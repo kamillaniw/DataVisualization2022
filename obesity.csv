@@ -1,0 +1,1933 @@
+year,region_num,region_name,class,data_value,data_value_type,gender
+2007,3,Akmola region,obesity,0.19,total,overall
+2007,4,Aktobe region,obesity,0.16,total,overall
+2007,5,Almaty region,obesity,0.19,total,overall
+2007,6,Atyrau region,obesity,0.24,total,overall
+2007,7,West Kazakkhstan region,obesity,0.09,total,overall
+2007,8,Jambyl region,obesity,0.09,total,overall
+2007,9,Karaganda region,obesity,0.32,total,overall
+2007,10,Kostanay region,obesity,0.15,total,overall
+2007,11,Kyzylorda region,obesity,0.16,total,overall
+2007,12,Mangystau region,obesity,0.14,total,overall
+2007,13,South Kazakhstan region,obesity,0.17,total,overall
+2007,14,Pavlodar region,obesity,0.35,total,overall
+2007,15,North Kazakhstan region,obesity,0.36,total,overall
+2007,16,East Kazakhstan region,obesity,0.33,total,overall
+2007,1,Nur-Sultan,obesity,0.49,total,overall
+2007,2,Almaty,obesity,0.25,total,overall
+2007,3,Akmola region,obesity,0.33,total,women
+2007,4,Aktobe region,obesity,0.28,total,women
+2007,5,Almaty region,obesity,0.35,total,women
+2007,6,Atyrau region,obesity,0.42,total,women
+2007,7,West Kazakkhstan region,obesity,0.15,total,women
+2007,8,Jambyl region,obesity,0.17,total,women
+2007,9,Karaganda region,obesity,0.56,total,women
+2007,10,Kostanay region,obesity,0.26,total,women
+2007,11,Kyzylorda region,obesity,0.28,total,women
+2007,12,Mangystau region,obesity,0.25,total,women
+2007,13,South Kazakhstan region,obesity,0.30,total,women
+2007,14,Pavlodar region,obesity,0.61,total,women
+2007,15,North Kazakhstan region,obesity,0.63,total,women
+2007,16,East Kazakhstan region,obesity,0.58,total,women
+2007,1,Nur-Sultan,obesity,0.92,total,women
+2007,2,Almaty,obesity,0.42,total,women
+2007,3,Akmola region,obesity,0.44,total,men
+2007,4,Aktobe region,obesity,0.38,total,men
+2007,5,Almaty region,obesity,0.45,total,men
+2007,6,Atyrau region,obesity,0.56,total,men
+2007,7,West Kazakkhstan region,obesity,0.21,total,men
+2007,8,Jambyl region,obesity,0.23,total,men
+2007,9,Karaganda region,obesity,0.77,total,men
+2007,10,Kostanay region,obesity,0.35,total,men
+2007,11,Kyzylorda region,obesity,0.36,total,men
+2007,12,Mangystau region,obesity,0.32,total,men
+2007,13,South Kazakhstan region,obesity,0.40,total,men
+2007,14,Pavlodar region,obesity,0.83,total,men
+2007,15,North Kazakhstan region,obesity,0.83,total,men
+2007,16,East Kazakhstan region,obesity,0.78,total,men
+2007,1,Nur-Sultan,obesity,1.07,total,men
+2007,2,Almaty,obesity,0.60,total,men
+2007,3,Akmola region,obesity,0.12,urban,overall
+2007,4,Aktobe region,obesity,0.17,urban,overall
+2007,5,Almaty region,obesity,0.16,urban,overall
+2007,6,Atyrau region,obesity,0.23,urban,overall
+2007,7,West Kazakkhstan region,obesity,0.02,urban,overall
+2007,8,Jambyl region,obesity,0.10,urban,overall
+2007,9,Karaganda region,obesity,0.33,urban,overall
+2007,10,Kostanay region,obesity,0.20,urban,overall
+2007,11,Kyzylorda region,obesity,0.19,urban,overall
+2007,12,Mangystau region,obesity,0.14,urban,overall
+2007,13,South Kazakhstan region,obesity,0.29,urban,overall
+2007,14,Pavlodar region,obesity,0.39,urban,overall
+2007,15,North Kazakhstan region,obesity,0.14,urban,overall
+2007,16,East Kazakhstan region,obesity,0.39,urban,overall
+2007,1,Nur-Sultan,obesity,0.49,urban,overall
+2007,2,Almaty,obesity,0.25,urban,overall
+2007,3,Akmola region,obesity,0.21,urban,women
+2007,4,Aktobe region,obesity,0.29,urban,women
+2007,5,Almaty region,obesity,0.27,urban,women
+2007,6,Atyrau region,obesity,0.40,urban,women
+2007,7,West Kazakkhstan region,obesity,0.04,urban,women
+2007,8,Jambyl region,obesity,0.17,urban,women
+2007,9,Karaganda region,obesity,0.56,urban,women
+2007,10,Kostanay region,obesity,0.33,urban,women
+2007,11,Kyzylorda region,obesity,0.32,urban,women
+2007,12,Mangystau region,obesity,0.24,urban,women
+2007,13,South Kazakhstan region,obesity,0.51,urban,women
+2007,14,Pavlodar region,obesity,0.66,urban,women
+2007,15,North Kazakhstan region,obesity,0.24,urban,women
+2007,16,East Kazakhstan region,obesity,0.66,urban,women
+2007,1,Nur-Sultan,obesity,0.92,urban,women
+2007,2,Almaty,obesity,0.42,urban,women
+2007,3,Akmola region,obesity,0.30,urban,men
+2007,4,Aktobe region,obesity,0.43,urban,men
+2007,5,Almaty region,obesity,0.39,urban,men
+2007,6,Atyrau region,obesity,0.57,urban,men
+2007,7,West Kazakkhstan region,obesity,0.05,urban,men
+2007,8,Jambyl region,obesity,0.25,urban,men
+2007,9,Karaganda region,obesity,0.79,urban,men
+2007,10,Kostanay region,obesity,0.48,urban,men
+2007,11,Kyzylorda region,obesity,0.46,urban,men
+2007,12,Mangystau region,obesity,0.32,urban,men
+2007,13,South Kazakhstan region,obesity,0.69,urban,men
+2007,14,Pavlodar region,obesity,0.94,urban,men
+2007,15,North Kazakhstan region,obesity,0.34,urban,men
+2007,16,East Kazakhstan region,obesity,0.97,urban,men
+2007,1,Nur-Sultan,obesity,1.07,urban,men
+2007,2,Almaty,obesity,0.60,urban,men
+2007,3,Akmola region,obesity,0.24,rural,overall
+2007,4,Aktobe region,obesity,0.15,rural,overall
+2007,5,Almaty region,obesity,0.21,rural,overall
+2007,6,Atyrau region,obesity,0.24,rural,overall
+2007,7,West Kazakkhstan region,obesity,0.15,rural,overall
+2007,8,Jambyl region,obesity,0.09,rural,overall
+2007,9,Karaganda region,obesity,0.32,rural,overall
+2007,10,Kostanay region,obesity,0.10,rural,overall
+2007,11,Kyzylorda region,obesity,0.14,rural,overall
+2007,12,Mangystau region,obesity,0.15,rural,overall
+2007,13,South Kazakhstan region,obesity,0.09,rural,overall
+2007,14,Pavlodar region,obesity,0.28,rural,overall
+2007,15,North Kazakhstan region,obesity,0.49,rural,overall
+2007,16,East Kazakhstan region,obesity,0.26,rural,overall
+2007,3,Akmola region,obesity,0.43,rural,women
+2007,4,Aktobe region,obesity,0.26,rural,women
+2007,5,Almaty region,obesity,0.38,rural,women
+2007,6,Atyrau region,obesity,0.44,rural,women
+2007,7,West Kazakkhstan region,obesity,0.26,rural,women
+2007,8,Jambyl region,obesity,0.17,rural,women
+2007,9,Karaganda region,obesity,0.56,rural,women
+2007,10,Kostanay region,obesity,0.18,rural,women
+2007,11,Kyzylorda region,obesity,0.25,rural,women
+2007,12,Mangystau region,obesity,0.26,rural,women
+2007,13,South Kazakhstan region,obesity,0.16,rural,women
+2007,14,Pavlodar region,obesity,0.50,rural,women
+2007,15,North Kazakhstan region,obesity,0.88,rural,women
+2007,16,East Kazakhstan region,obesity,0.47,rural,women
+2007,3,Akmola region,obesity,0.56,rural,men
+2007,4,Aktobe region,obesity,0.33,rural,men
+2007,5,Almaty region,obesity,0.46,rural,men
+2007,6,Atyrau region,obesity,0.56,rural,men
+2007,7,West Kazakkhstan region,obesity,0.33,rural,men
+2007,8,Jambyl region,obesity,0.21,rural,men
+2007,9,Karaganda region,obesity,0.72,rural,men
+2007,10,Kostanay region,obesity,0.23,rural,men
+2007,11,Kyzylorda region,obesity,0.30,rural,men
+2007,12,Mangystau region,obesity,0.32,rural,men
+2007,13,South Kazakhstan region,obesity,0.21,rural,men
+2007,14,Pavlodar region,obesity,0.64,rural,men
+2007,15,North Kazakhstan region,obesity,1.09,rural,men
+2007,16,East Kazakhstan region,obesity,0.57,rural,men
+2008,3,Akmola region,obesity,0.26,total,overall
+2008,4,Aktobe region,obesity,0.16,total,overall
+2008,5,Almaty region,obesity,0.14,total,overall
+2008,6,Atyrau region,obesity,0.23,total,overall
+2008,7,West Kazakkhstan region,obesity,0.22,total,overall
+2008,8,Jambyl region,obesity,0.09,total,overall
+2008,9,Karaganda region,obesity,0.37,total,overall
+2008,10,Kostanay region,obesity,0.14,total,overall
+2008,11,Kyzylorda region,obesity,0.18,total,overall
+2008,12,Mangystau region,obesity,0.17,total,overall
+2008,13,South Kazakhstan region,obesity,0.16,total,overall
+2008,14,Pavlodar region,obesity,0.42,total,overall
+2008,15,North Kazakhstan region,obesity,0.48,total,overall
+2008,16,East Kazakhstan region,obesity,0.37,total,overall
+2008,1,Nur-Sultan,obesity,0.38,total,overall
+2008,2,Almaty,obesity,0.25,total,overall
+2008,3,Akmola region,obesity,0.48,total,women
+2008,4,Aktobe region,obesity,0.30,total,women
+2008,5,Almaty region,obesity,0.27,total,women
+2008,6,Atyrau region,obesity,0.44,total,women
+2008,7,West Kazakkhstan region,obesity,0.42,total,women
+2008,8,Jambyl region,obesity,0.17,total,women
+2008,9,Karaganda region,obesity,0.67,total,women
+2008,10,Kostanay region,obesity,0.27,total,women
+2008,11,Kyzylorda region,obesity,0.35,total,women
+2008,12,Mangystau region,obesity,0.33,total,women
+2008,13,South Kazakhstan region,obesity,0.32,total,women
+2008,14,Pavlodar region,obesity,0.78,total,women
+2008,15,North Kazakhstan region,obesity,0.91,total,women
+2008,16,East Kazakhstan region,obesity,0.70,total,women
+2008,1,Nur-Sultan,obesity,0.73,total,women
+2008,2,Almaty,obesity,0.44,total,women
+2008,3,Akmola region,obesity,0.54,total,men
+2008,4,Aktobe region,obesity,0.35,total,men
+2008,5,Almaty region,obesity,0.28,total,men
+2008,6,Atyrau region,obesity,0.48,total,men
+2008,7,West Kazakkhstan region,obesity,0.47,total,men
+2008,8,Jambyl region,obesity,0.20,total,men
+2008,9,Karaganda region,obesity,0.80,total,men
+2008,10,Kostanay region,obesity,0.31,total,men
+2008,11,Kyzylorda region,obesity,0.36,total,men
+2008,12,Mangystau region,obesity,0.35,total,men
+2008,13,South Kazakhstan region,obesity,0.34,total,men
+2008,14,Pavlodar region,obesity,0.92,total,men
+2008,15,North Kazakhstan region,obesity,1.03,total,men
+2008,16,East Kazakhstan region,obesity,0.81,total,men
+2008,1,Nur-Sultan,obesity,0.78,total,men
+2008,2,Almaty,obesity,0.57,total,men
+2008,3,Akmola region,obesity,0.33,urban,overall
+2008,4,Aktobe region,obesity,0.17,urban,overall
+2008,5,Almaty region,obesity,0.16,urban,overall
+2008,6,Atyrau region,obesity,0.24,urban,overall
+2008,7,West Kazakkhstan region,obesity,0.04,urban,overall
+2008,8,Jambyl region,obesity,0.09,urban,overall
+2008,9,Karaganda region,obesity,0.38,urban,overall
+2008,10,Kostanay region,obesity,0.18,urban,overall
+2008,11,Kyzylorda region,obesity,0.22,urban,overall
+2008,12,Mangystau region,obesity,0.11,urban,overall
+2008,13,South Kazakhstan region,obesity,0.22,urban,overall
+2008,14,Pavlodar region,obesity,0.47,urban,overall
+2008,15,North Kazakhstan region,obesity,0.37,urban,overall
+2008,16,East Kazakhstan region,obesity,0.46,urban,overall
+2008,1,Nur-Sultan,obesity,0.38,urban,overall
+2008,2,Almaty,obesity,0.25,urban,overall
+2008,3,Akmola region,obesity,0.59,urban,women
+2008,4,Aktobe region,obesity,0.31,urban,women
+2008,5,Almaty region,obesity,0.29,urban,women
+2008,6,Atyrau region,obesity,0.43,urban,women
+2008,7,West Kazakkhstan region,obesity,0.06,urban,women
+2008,8,Jambyl region,obesity,0.15,urban,women
+2008,9,Karaganda region,obesity,0.69,urban,women
+2008,10,Kostanay region,obesity,0.32,urban,women
+2008,11,Kyzylorda region,obesity,0.42,urban,women
+2008,12,Mangystau region,obesity,0.21,urban,women
+2008,13,South Kazakhstan region,obesity,0.41,urban,women
+2008,14,Pavlodar region,obesity,0.85,urban,women
+2008,15,North Kazakhstan region,obesity,0.66,urban,women
+2008,16,East Kazakhstan region,obesity,0.82,urban,women
+2008,1,Nur-Sultan,obesity,0.73,urban,women
+2008,2,Almaty,obesity,0.44,urban,women
+2008,3,Akmola region,obesity,0.73,urban,men
+2008,4,Aktobe region,obesity,0.38,urban,men
+2008,5,Almaty region,obesity,0.35,urban,men
+2008,6,Atyrau region,obesity,0.52,urban,men
+2008,7,West Kazakkhstan region,obesity,0.08,urban,men
+2008,8,Jambyl region,obesity,0.19,urban,men
+2008,9,Karaganda region,obesity,0.86,urban,men
+2008,10,Kostanay region,obesity,0.41,urban,men
+2008,11,Kyzylorda region,obesity,0.48,urban,men
+2008,12,Mangystau region,obesity,0.23,urban,men
+2008,13,South Kazakhstan region,obesity,0.48,urban,men
+2008,14,Pavlodar region,obesity,1.06,urban,men
+2008,15,North Kazakhstan region,obesity,0.83,urban,men
+2008,16,East Kazakhstan region,obesity,1.05,urban,men
+2008,1,Nur-Sultan,obesity,0.78,urban,men
+2008,2,Almaty,obesity,0.57,urban,men
+2008,3,Akmola region,obesity,0.20,rural,overall
+2008,4,Aktobe region,obesity,0.15,rural,overall
+2008,5,Almaty region,obesity,0.13,rural,overall
+2008,6,Atyrau region,obesity,0.22,rural,overall
+2008,7,West Kazakkhstan region,obesity,0.39,rural,overall
+2008,8,Jambyl region,obesity,0.10,rural,overall
+2008,9,Karaganda region,obesity,0.31,rural,overall
+2008,10,Kostanay region,obesity,0.11,rural,overall
+2008,11,Kyzylorda region,obesity,0.15,rural,overall
+2008,12,Mangystau region,obesity,0.24,rural,overall
+2008,13,South Kazakhstan region,obesity,0.12,rural,overall
+2008,14,Pavlodar region,obesity,0.32,rural,overall
+2008,15,North Kazakhstan region,obesity,0.55,rural,overall
+2008,16,East Kazakhstan region,obesity,0.27,rural,overall
+2008,3,Akmola region,obesity,0.38,rural,women
+2008,4,Aktobe region,obesity,0.29,rural,women
+2008,5,Almaty region,obesity,0.26,rural,women
+2008,6,Atyrau region,obesity,0.44,rural,women
+2008,7,West Kazakkhstan region,obesity,0.77,rural,women
+2008,8,Jambyl region,obesity,0.19,rural,women
+2008,9,Karaganda region,obesity,0.60,rural,women
+2008,10,Kostanay region,obesity,0.21,rural,women
+2008,11,Kyzylorda region,obesity,0.31,rural,women
+2008,12,Mangystau region,obesity,0.48,rural,women
+2008,13,South Kazakhstan region,obesity,0.25,rural,women
+2008,14,Pavlodar region,obesity,0.62,rural,women
+2008,15,North Kazakhstan region,obesity,1.07,rural,women
+2008,16,East Kazakhstan region,obesity,0.53,rural,women
+2008,3,Akmola region,obesity,0.40,rural,men
+2008,4,Aktobe region,obesity,0.30,rural,men
+2008,5,Almaty region,obesity,0.26,rural,men
+2008,6,Atyrau region,obesity,0.45,rural,men
+2008,7,West Kazakkhstan region,obesity,0.78,rural,men
+2008,8,Jambyl region,obesity,0.20,rural,men
+2008,9,Karaganda region,obesity,0.62,rural,men
+2008,10,Kostanay region,obesity,0.22,rural,men
+2008,11,Kyzylorda region,obesity,0.30,rural,men
+2008,12,Mangystau region,obesity,0.49,rural,men
+2008,13,South Kazakhstan region,obesity,0.25,rural,men
+2008,14,Pavlodar region,obesity,0.65,rural,men
+2008,15,North Kazakhstan region,obesity,1.13,rural,men
+2008,16,East Kazakhstan region,obesity,0.54,rural,men
+2009,3,Akmola region,obesity,0.30,total,overall
+2009,4,Aktobe region,obesity,0.16,total,overall
+2009,5,Almaty region,obesity,0.16,total,overall
+2009,6,Atyrau region,obesity,0.23,total,overall
+2009,7,West Kazakkhstan region,obesity,0.27,total,overall
+2009,8,Jambyl region,obesity,0.12,total,overall
+2009,9,Karaganda region,obesity,0.38,total,overall
+2009,10,Kostanay region,obesity,0.14,total,overall
+2009,11,Kyzylorda region,obesity,0.21,total,overall
+2009,12,Mangystau region,obesity,0.17,total,overall
+2009,13,South Kazakhstan region,obesity,0.24,total,overall
+2009,14,Pavlodar region,obesity,0.46,total,overall
+2009,15,North Kazakhstan region,obesity,0.57,total,overall
+2009,16,East Kazakhstan region,obesity,0.35,total,overall
+2009,1,Nur-Sultan,obesity,0.36,total,overall
+2009,2,Almaty,obesity,0.28,total,overall
+2009,3,Akmola region,obesity,0.56,total,women
+2009,4,Aktobe region,obesity,0.30,total,women
+2009,5,Almaty region,obesity,0.32,total,women
+2009,6,Atyrau region,obesity,0.44,total,women
+2009,7,West Kazakkhstan region,obesity,0.52,total,women
+2009,8,Jambyl region,obesity,0.24,total,women
+2009,9,Karaganda region,obesity,0.71,total,women
+2009,10,Kostanay region,obesity,0.26,total,women
+2009,11,Kyzylorda region,obesity,0.45,total,women
+2009,12,Mangystau region,obesity,0.33,total,women
+2009,13,South Kazakhstan region,obesity,0.47,total,women
+2009,14,Pavlodar region,obesity,0.85,total,women
+2009,15,North Kazakhstan region,obesity,1.07,total,women
+2009,16,East Kazakhstan region,obesity,0.64,total,women
+2009,1,Nur-Sultan,obesity,0.69,total,women
+2009,2,Almaty,obesity,0.50,total,women
+2009,3,Akmola region,obesity,0.64,total,men
+2009,4,Aktobe region,obesity,0.34,total,men
+2009,5,Almaty region,obesity,0.34,total,men
+2009,6,Atyrau region,obesity,0.49,total,men
+2009,7,West Kazakkhstan region,obesity,0.58,total,men
+2009,8,Jambyl region,obesity,0.26,total,men
+2009,9,Karaganda region,obesity,0.84,total,men
+2009,10,Kostanay region,obesity,0.30,total,men
+2009,11,Kyzylorda region,obesity,0.41,total,men
+2009,12,Mangystau region,obesity,0.35,total,men
+2009,13,South Kazakhstan region,obesity,0.50,total,men
+2009,14,Pavlodar region,obesity,1.01,total,men
+2009,15,North Kazakhstan region,obesity,1.20,total,men
+2009,16,East Kazakhstan region,obesity,0.75,total,men
+2009,1,Nur-Sultan,obesity,0.75,total,men
+2009,2,Almaty,obesity,0.65,total,men
+2009,3,Akmola region,obesity,0.36,urban,overall
+2009,4,Aktobe region,obesity,0.13,urban,overall
+2009,5,Almaty region,obesity,0.18,urban,overall
+2009,6,Atyrau region,obesity,0.24,urban,overall
+2009,7,West Kazakkhstan region,obesity,0.11,urban,overall
+2009,8,Jambyl region,obesity,0.14,urban,overall
+2009,9,Karaganda region,obesity,0.40,urban,overall
+2009,10,Kostanay region,obesity,0.16,urban,overall
+2009,11,Kyzylorda region,obesity,0.34,urban,overall
+2009,12,Mangystau region,obesity,0.14,urban,overall
+2009,13,South Kazakhstan region,obesity,0.31,urban,overall
+2009,14,Pavlodar region,obesity,0.50,urban,overall
+2009,15,North Kazakhstan region,obesity,0.49,urban,overall
+2009,16,East Kazakhstan region,obesity,0.36,urban,overall
+2009,1,Nur-Sultan,obesity,0.36,urban,overall
+2009,2,Almaty,obesity,0.28,urban,overall
+2009,3,Akmola region,obesity,0.66,urban,women
+2009,4,Aktobe region,obesity,0.23,urban,women
+2009,5,Almaty region,obesity,0.33,urban,women
+2009,6,Atyrau region,obesity,0.44,urban,women
+2009,7,West Kazakkhstan region,obesity,0.20,urban,women
+2009,8,Jambyl region,obesity,0.26,urban,women
+2009,9,Karaganda region,obesity,0.73,urban,women
+2009,10,Kostanay region,obesity,0.29,urban,women
+2009,11,Kyzylorda region,obesity,0.75,urban,women
+2009,12,Mangystau region,obesity,0.26,urban,women
+2009,13,South Kazakhstan region,obesity,0.58,urban,women
+2009,14,Pavlodar region,obesity,0.90,urban,women
+2009,15,North Kazakhstan region,obesity,0.88,urban,women
+2009,16,East Kazakhstan region,obesity,0.63,urban,women
+2009,1,Nur-Sultan,obesity,0.69,urban,women
+2009,2,Almaty,obesity,0.50,urban,women
+2009,3,Akmola region,obesity,0.81,urban,men
+2009,4,Aktobe region,obesity,0.28,urban,men
+2009,5,Almaty region,obesity,0.39,urban,men
+2009,6,Atyrau region,obesity,0.52,urban,men
+2009,7,West Kazakkhstan region,obesity,0.25,urban,men
+2009,8,Jambyl region,obesity,0.33,urban,men
+2009,9,Karaganda region,obesity,0.90,urban,men
+2009,10,Kostanay region,obesity,0.37,urban,men
+2009,11,Kyzylorda region,obesity,0.63,urban,men
+2009,12,Mangystau region,obesity,0.29,urban,men
+2009,13,South Kazakhstan region,obesity,0.68,urban,men
+2009,14,Pavlodar region,obesity,1.13,urban,men
+2009,15,North Kazakhstan region,obesity,1.11,urban,men
+2009,16,East Kazakhstan region,obesity,0.81,urban,men
+2009,1,Nur-Sultan,obesity,0.75,urban,men
+2009,2,Almaty,obesity,0.65,urban,men
+2009,3,Akmola region,obesity,0.24,rural,overall
+2009,4,Aktobe region,obesity,0.20,rural,overall
+2009,5,Almaty region,obesity,0.16,rural,overall
+2009,6,Atyrau region,obesity,0.23,rural,overall
+2009,7,West Kazakkhstan region,obesity,0.42,rural,overall
+2009,8,Jambyl region,obesity,0.11,rural,overall
+2009,9,Karaganda region,obesity,0.31,rural,overall
+2009,10,Kostanay region,obesity,0.11,rural,overall
+2009,11,Kyzylorda region,obesity,0.13,rural,overall
+2009,12,Mangystau region,obesity,0.21,rural,overall
+2009,13,South Kazakhstan region,obesity,0.20,rural,overall
+2009,14,Pavlodar region,obesity,0.38,rural,overall
+2009,15,North Kazakhstan region,obesity,0.61,rural,overall
+2009,16,East Kazakhstan region,obesity,0.33,rural,overall
+2009,3,Akmola region,obesity,0.47,rural,women
+2009,4,Aktobe region,obesity,0.38,rural,women
+2009,5,Almaty region,obesity,0.31,rural,women
+2009,6,Atyrau region,obesity,0.45,rural,women
+2009,7,West Kazakkhstan region,obesity,0.83,rural,women
+2009,8,Jambyl region,obesity,0.22,rural,women
+2009,9,Karaganda region,obesity,0.62,rural,women
+2009,10,Kostanay region,obesity,0.22,rural,women
+2009,11,Kyzylorda region,obesity,0.26,rural,women
+2009,12,Mangystau region,obesity,0.41,rural,women
+2009,13,South Kazakhstan region,obesity,0.39,rural,women
+2009,14,Pavlodar region,obesity,0.74,rural,women
+2009,15,North Kazakhstan region,obesity,1.19,rural,women
+2009,16,East Kazakhstan region,obesity,0.66,rural,women
+2009,3,Akmola region,obesity,0.50,rural,men
+2009,4,Aktobe region,obesity,0.40,rural,men
+2009,5,Almaty region,obesity,0.32,rural,men
+2009,6,Atyrau region,obesity,0.46,rural,men
+2009,7,West Kazakkhstan region,obesity,0.84,rural,men
+2009,8,Jambyl region,obesity,0.22,rural,men
+2009,9,Karaganda region,obesity,0.63,rural,men
+2009,10,Kostanay region,obesity,0.24,rural,men
+2009,11,Kyzylorda region,obesity,0.25,rural,men
+2009,12,Mangystau region,obesity,0.42,rural,men
+2009,13,South Kazakhstan region,obesity,0.40,rural,men
+2009,14,Pavlodar region,obesity,0.77,rural,men
+2009,15,North Kazakhstan region,obesity,1.25,rural,men
+2009,16,East Kazakhstan region,obesity,0.67,rural,men
+2010,3,Akmola region,obesity,0.31,total,overall
+2010,4,Aktobe region,obesity,0.18,total,overall
+2010,5,Almaty region,obesity,0.13,total,overall
+2010,6,Atyrau region,obesity,0.21,total,overall
+2010,7,West Kazakkhstan region,obesity,0.45,total,overall
+2010,8,Jambyl region,obesity,0.14,total,overall
+2010,9,Karaganda region,obesity,0.39,total,overall
+2010,10,Kostanay region,obesity,0.14,total,overall
+2010,11,Kyzylorda region,obesity,0.17,total,overall
+2010,12,Mangystau region,obesity,0.16,total,overall
+2010,13,South Kazakhstan region,obesity,0.18,total,overall
+2010,14,Pavlodar region,obesity,0.44,total,overall
+2010,15,North Kazakhstan region,obesity,0.61,total,overall
+2010,16,East Kazakhstan region,obesity,0.36,total,overall
+2010,1,Nur-Sultan,obesity,0.47,total,overall
+2010,2,Almaty,obesity,0.22,total,overall
+2010,3,Akmola region,obesity,0.56,total,women
+2010,4,Aktobe region,obesity,0.32,total,women
+2010,5,Almaty region,obesity,0.23,total,women
+2010,6,Atyrau region,obesity,0.38,total,women
+2010,7,West Kazakkhstan region,obesity,0.80,total,women
+2010,8,Jambyl region,obesity,0.25,total,women
+2010,9,Karaganda region,obesity,0.68,total,women
+2010,10,Kostanay region,obesity,0.24,total,women
+2010,11,Kyzylorda region,obesity,0.31,total,women
+2010,12,Mangystau region,obesity,0.29,total,women
+2010,13,South Kazakhstan region,obesity,0.32,total,women
+2010,14,Pavlodar region,obesity,0.77,total,women
+2010,15,North Kazakhstan region,obesity,1.08,total,women
+2010,16,East Kazakhstan region,obesity,0.63,total,women
+2010,1,Nur-Sultan,obesity,0.86,total,women
+2010,2,Almaty,obesity,0.38,total,women
+2010,3,Akmola region,obesity,0.72,total,men
+2010,4,Aktobe region,obesity,0.43,total,men
+2010,5,Almaty region,obesity,0.29,total,men
+2010,6,Atyrau region,obesity,0.49,total,men
+2010,7,West Kazakkhstan region,obesity,1.04,total,men
+2010,8,Jambyl region,obesity,0.33,total,men
+2010,9,Karaganda region,obesity,0.91,total,men
+2010,10,Kostanay region,obesity,0.32,total,men
+2010,11,Kyzylorda region,obesity,0.39,total,men
+2010,12,Mangystau region,obesity,0.37,total,men
+2010,13,South Kazakhstan region,obesity,0.43,total,men
+2010,14,Pavlodar region,obesity,1.02,total,men
+2010,15,North Kazakhstan region,obesity,1.40,total,men
+2010,16,East Kazakhstan region,obesity,0.82,total,men
+2010,1,Nur-Sultan,obesity,1.05,total,men
+2010,2,Almaty,obesity,0.53,total,men
+2010,3,Akmola region,obesity,0.32,urban,overall
+2010,4,Aktobe region,obesity,0.17,urban,overall
+2010,5,Almaty region,obesity,0.12,urban,overall
+2010,6,Atyrau region,obesity,0.19,urban,overall
+2010,7,West Kazakkhstan region,obesity,0.22,urban,overall
+2010,8,Jambyl region,obesity,0.14,urban,overall
+2010,9,Karaganda region,obesity,0.41,urban,overall
+2010,10,Kostanay region,obesity,0.16,urban,overall
+2010,11,Kyzylorda region,obesity,0.22,urban,overall
+2010,12,Mangystau region,obesity,0.17,urban,overall
+2010,13,South Kazakhstan region,obesity,0.16,urban,overall
+2010,14,Pavlodar region,obesity,0.49,urban,overall
+2010,15,North Kazakhstan region,obesity,0.32,urban,overall
+2010,16,East Kazakhstan region,obesity,0.31,urban,overall
+2010,1,Nur-Sultan,obesity,0.47,urban,overall
+2010,2,Almaty,obesity,0.22,urban,overall
+2010,3,Akmola region,obesity,0.55,urban,women
+2010,4,Aktobe region,obesity,0.29,urban,women
+2010,5,Almaty region,obesity,0.22,urban,women
+2010,6,Atyrau region,obesity,0.33,urban,women
+2010,7,West Kazakkhstan region,obesity,0.38,urban,women
+2010,8,Jambyl region,obesity,0.24,urban,women
+2010,9,Karaganda region,obesity,0.70,urban,women
+2010,10,Kostanay region,obesity,0.28,urban,women
+2010,11,Kyzylorda region,obesity,0.38,urban,women
+2010,12,Mangystau region,obesity,0.30,urban,women
+2010,13,South Kazakhstan region,obesity,0.27,urban,women
+2010,14,Pavlodar region,obesity,0.85,urban,women
+2010,15,North Kazakhstan region,obesity,0.55,urban,women
+2010,16,East Kazakhstan region,obesity,0.53,urban,women
+2010,1,Nur-Sultan,obesity,0.86,urban,women
+2010,2,Almaty,obesity,0.38,urban,women
+2010,3,Akmola region,obesity,0.76,urban,men
+2010,4,Aktobe region,obesity,0.40,urban,men
+2010,5,Almaty region,obesity,0.29,urban,men
+2010,6,Atyrau region,obesity,0.45,urban,men
+2010,7,West Kazakkhstan region,obesity,0.52,urban,men
+2010,8,Jambyl region,obesity,0.34,urban,men
+2010,9,Karaganda region,obesity,0.97,urban,men
+2010,10,Kostanay region,obesity,0.40,urban,men
+2010,11,Kyzylorda region,obesity,0.51,urban,men
+2010,12,Mangystau region,obesity,0.40,urban,men
+2010,13,South Kazakhstan region,obesity,0.38,urban,men
+2010,14,Pavlodar region,obesity,1.18,urban,men
+2010,15,North Kazakhstan region,obesity,0.77,urban,men
+2010,16,East Kazakhstan region,obesity,0.73,urban,men
+2010,1,Nur-Sultan,obesity,1.05,urban,men
+2010,2,Almaty,obesity,0.53,urban,men
+2010,3,Akmola region,obesity,0.31,rural,overall
+2010,4,Aktobe region,obesity,0.21,rural,overall
+2010,5,Almaty region,obesity,0.13,rural,overall
+2010,6,Atyrau region,obesity,0.23,rural,overall
+2010,7,West Kazakkhstan region,obesity,0.68,rural,overall
+2010,8,Jambyl region,obesity,0.15,rural,overall
+2010,9,Karaganda region,obesity,0.32,rural,overall
+2010,10,Kostanay region,obesity,0.11,rural,overall
+2010,11,Kyzylorda region,obesity,0.14,rural,overall
+2010,12,Mangystau region,obesity,0.15,rural,overall
+2010,13,South Kazakhstan region,obesity,0.20,rural,overall
+2010,14,Pavlodar region,obesity,0.31,rural,overall
+2010,15,North Kazakhstan region,obesity,0.82,rural,overall
+2010,16,East Kazakhstan region,obesity,0.43,rural,overall
+2010,3,Akmola region,obesity,0.56,rural,women
+2010,4,Aktobe region,obesity,0.38,rural,women
+2010,5,Almaty region,obesity,0.24,rural,women
+2010,6,Atyrau region,obesity,0.42,rural,women
+2010,7,West Kazakkhstan region,obesity,1.24,rural,women
+2010,8,Jambyl region,obesity,0.26,rural,women
+2010,9,Karaganda region,obesity,0.59,rural,women
+2010,10,Kostanay region,obesity,0.19,rural,women
+2010,11,Kyzylorda region,obesity,0.25,rural,women
+2010,12,Mangystau region,obesity,0.28,rural,women
+2010,13,South Kazakhstan region,obesity,0.36,rural,women
+2010,14,Pavlodar region,obesity,0.56,rural,women
+2010,15,North Kazakhstan region,obesity,1.50,rural,women
+2010,16,East Kazakhstan region,obesity,0.79,rural,women
+2010,3,Akmola region,obesity,0.68,rural,men
+2010,4,Aktobe region,obesity,0.48,rural,men
+2010,5,Almaty region,obesity,0.29,rural,men
+2010,6,Atyrau region,obesity,0.52,rural,men
+2010,7,West Kazakkhstan region,obesity,1.51,rural,men
+2010,8,Jambyl region,obesity,0.33,rural,men
+2010,9,Karaganda region,obesity,0.71,rural,men
+2010,10,Kostanay region,obesity,0.24,rural,men
+2010,11,Kyzylorda region,obesity,0.30,rural,men
+2010,12,Mangystau region,obesity,0.34,rural,men
+2010,13,South Kazakhstan region,obesity,0.46,rural,men
+2010,14,Pavlodar region,obesity,0.69,rural,men
+2010,15,North Kazakhstan region,obesity,1.82,rural,men
+2010,16,East Kazakhstan region,obesity,0.94,rural,men
+2011,3,Akmola region,obesity,0.32,total,overall
+2011,4,Aktobe region,obesity,0.17,total,overall
+2011,5,Almaty region,obesity,0.16,total,overall
+2011,6,Atyrau region,obesity,0.27,total,overall
+2011,7,West Kazakkhstan region,obesity,0.56,total,overall
+2011,8,Jambyl region,obesity,0.15,total,overall
+2011,9,Karaganda region,obesity,0.40,total,overall
+2011,10,Kostanay region,obesity,0.12,total,overall
+2011,11,Kyzylorda region,obesity,0.17,total,overall
+2011,12,Mangystau region,obesity,0.16,total,overall
+2011,13,South Kazakhstan region,obesity,0.23,total,overall
+2011,14,Pavlodar region,obesity,0.47,total,overall
+2011,15,North Kazakhstan region,obesity,0.65,total,overall
+2011,16,East Kazakhstan region,obesity,0.37,total,overall
+2011,1,Nur-Sultan,obesity,0.41,total,overall
+2011,2,Almaty,obesity,0.22,total,overall
+2011,3,Akmola region,obesity,0.61,total,women
+2011,4,Aktobe region,obesity,0.33,total,women
+2011,5,Almaty region,obesity,0.30,total,women
+2011,6,Atyrau region,obesity,0.51,total,women
+2011,7,West Kazakkhstan region,obesity,1.06,total,women
+2011,8,Jambyl region,obesity,0.29,total,women
+2011,9,Karaganda region,obesity,0.74,total,women
+2011,10,Kostanay region,obesity,0.23,total,women
+2011,11,Kyzylorda region,obesity,0.34,total,women
+2011,12,Mangystau region,obesity,0.30,total,women
+2011,13,South Kazakhstan region,obesity,0.44,total,women
+2011,14,Pavlodar region,obesity,0.87,total,women
+2011,15,North Kazakhstan region,obesity,1.21,total,women
+2011,16,East Kazakhstan region,obesity,0.68,total,women
+2011,1,Nur-Sultan,obesity,0.79,total,women
+2011,2,Almaty,obesity,0.39,total,women
+2011,3,Akmola region,obesity,0.69,total,men
+2011,4,Aktobe region,obesity,0.37,total,men
+2011,5,Almaty region,obesity,0.32,total,men
+2011,6,Atyrau region,obesity,0.56,total,men
+2011,7,West Kazakkhstan region,obesity,1.18,total,men
+2011,8,Jambyl region,obesity,0.32,total,men
+2011,9,Karaganda region,obesity,0.87,total,men
+2011,10,Kostanay region,obesity,0.27,total,men
+2011,11,Kyzylorda region,obesity,0.35,total,men
+2011,12,Mangystau region,obesity,0.32,total,men
+2011,13,South Kazakhstan region,obesity,0.47,total,men
+2011,14,Pavlodar region,obesity,1.04,total,men
+2011,15,North Kazakhstan region,obesity,1.40,total,men
+2011,16,East Kazakhstan region,obesity,0.79,total,men
+2011,1,Nur-Sultan,obesity,0.87,total,men
+2011,2,Almaty,obesity,0.49,total,men
+2011,3,Akmola region,obesity,0.32,urban,overall
+2011,4,Aktobe region,obesity,0.16,urban,overall
+2011,5,Almaty region,obesity,0.20,urban,overall
+2011,6,Atyrau region,obesity,0.28,urban,overall
+2011,7,West Kazakkhstan region,obesity,0.24,urban,overall
+2011,8,Jambyl region,obesity,0.17,urban,overall
+2011,9,Karaganda region,obesity,0.42,urban,overall
+2011,10,Kostanay region,obesity,0.15,urban,overall
+2011,11,Kyzylorda region,obesity,0.26,urban,overall
+2011,12,Mangystau region,obesity,0.13,urban,overall
+2011,13,South Kazakhstan region,obesity,0.25,urban,overall
+2011,14,Pavlodar region,obesity,0.48,urban,overall
+2011,15,North Kazakhstan region,obesity,0.39,urban,overall
+2011,16,East Kazakhstan region,obesity,0.31,urban,overall
+2011,1,Nur-Sultan,obesity,0.41,urban,overall
+2011,2,Almaty,obesity,0.22,urban,overall
+2011,3,Akmola region,obesity,0.58,urban,women
+2011,4,Aktobe region,obesity,0.29,urban,women
+2011,5,Almaty region,obesity,0.36,urban,women
+2011,6,Atyrau region,obesity,0.52,urban,women
+2011,7,West Kazakkhstan region,obesity,0.43,urban,women
+2011,8,Jambyl region,obesity,0.31,urban,women
+2011,9,Karaganda region,obesity,0.75,urban,women
+2011,10,Kostanay region,obesity,0.28,urban,women
+2011,11,Kyzylorda region,obesity,0.49,urban,women
+2011,12,Mangystau region,obesity,0.25,urban,women
+2011,13,South Kazakhstan region,obesity,0.46,urban,women
+2011,14,Pavlodar region,obesity,0.87,urban,women
+2011,15,North Kazakhstan region,obesity,0.69,urban,women
+2011,16,East Kazakhstan region,obesity,0.57,urban,women
+2011,1,Nur-Sultan,obesity,0.79,urban,women
+2011,2,Almaty,obesity,0.39,urban,women
+2011,3,Akmola region,obesity,0.70,urban,men
+2011,4,Aktobe region,obesity,0.34,urban,men
+2011,5,Almaty region,obesity,0.43,urban,men
+2011,6,Atyrau region,obesity,0.61,urban,men
+2011,7,West Kazakkhstan region,obesity,0.53,urban,men
+2011,8,Jambyl region,obesity,0.38,urban,men
+2011,9,Karaganda region,obesity,0.93,urban,men
+2011,10,Kostanay region,obesity,0.35,urban,men
+2011,11,Kyzylorda region,obesity,0.54,urban,men
+2011,12,Mangystau region,obesity,0.28,urban,men
+2011,13,South Kazakhstan region,obesity,0.53,urban,men
+2011,14,Pavlodar region,obesity,1.09,urban,men
+2011,15,North Kazakhstan region,obesity,0.89,urban,men
+2011,16,East Kazakhstan region,obesity,0.71,urban,men
+2011,1,Nur-Sultan,obesity,0.87,urban,men
+2011,2,Almaty,obesity,0.49,urban,men
+2011,3,Akmola region,obesity,0.33,rural,overall
+2011,4,Aktobe region,obesity,0.20,rural,overall
+2011,5,Almaty region,obesity,0.14,rural,overall
+2011,6,Atyrau region,obesity,0.25,rural,overall
+2011,7,West Kazakkhstan region,obesity,0.88,rural,overall
+2011,8,Jambyl region,obesity,0.14,rural,overall
+2011,9,Karaganda region,obesity,0.33,rural,overall
+2011,10,Kostanay region,obesity,0.09,rural,overall
+2011,11,Kyzylorda region,obesity,0.10,rural,overall
+2011,12,Mangystau region,obesity,0.18,rural,overall
+2011,13,South Kazakhstan region,obesity,0.21,rural,overall
+2011,14,Pavlodar region,obesity,0.45,rural,overall
+2011,15,North Kazakhstan region,obesity,0.85,rural,overall
+2011,16,East Kazakhstan region,obesity,0.45,rural,overall
+2011,3,Akmola region,obesity,0.64,rural,women
+2011,4,Aktobe region,obesity,0.40,rural,women
+2011,5,Almaty region,obesity,0.28,rural,women
+2011,6,Atyrau region,obesity,0.50,rural,women
+2011,7,West Kazakkhstan region,obesity,1.74,rural,women
+2011,8,Jambyl region,obesity,0.27,rural,women
+2011,9,Karaganda region,obesity,0.67,rural,women
+2011,10,Kostanay region,obesity,0.17,rural,women
+2011,11,Kyzylorda region,obesity,0.21,rural,women
+2011,12,Mangystau region,obesity,0.37,rural,women
+2011,13,South Kazakhstan region,obesity,0.42,rural,women
+2011,14,Pavlodar region,obesity,0.87,rural,women
+2011,15,North Kazakhstan region,obesity,1.64,rural,women
+2011,16,East Kazakhstan region,obesity,0.87,rural,women
+2011,3,Akmola region,obesity,0.67,rural,men
+2011,4,Aktobe region,obesity,0.41,rural,men
+2011,5,Almaty region,obesity,0.29,rural,men
+2011,6,Atyrau region,obesity,0.51,rural,men
+2011,7,West Kazakkhstan region,obesity,1.78,rural,men
+2011,8,Jambyl region,obesity,0.28,rural,men
+2011,9,Karaganda region,obesity,0.67,rural,men
+2011,10,Kostanay region,obesity,0.19,rural,men
+2011,11,Kyzylorda region,obesity,0.20,rural,men
+2011,12,Mangystau region,obesity,0.37,rural,men
+2011,13,South Kazakhstan region,obesity,0.43,rural,men
+2011,14,Pavlodar region,obesity,0.92,rural,men
+2011,15,North Kazakhstan region,obesity,1.74,rural,men
+2011,16,East Kazakhstan region,obesity,0.91,rural,men
+2012,3,Akmola region,obesity,0.28,total,overall
+2012,4,Aktobe region,obesity,0.18,total,overall
+2012,5,Almaty region,obesity,0.16,total,overall
+2012,6,Atyrau region,obesity,0.27,total,overall
+2012,7,West Kazakkhstan region,obesity,0.54,total,overall
+2012,8,Jambyl region,obesity,0.19,total,overall
+2012,9,Karaganda region,obesity,0.41,total,overall
+2012,10,Kostanay region,obesity,0.15,total,overall
+2012,11,Kyzylorda region,obesity,0.22,total,overall
+2012,12,Mangystau region,obesity,0.17,total,overall
+2012,13,South Kazakhstan region,obesity,0.26,total,overall
+2012,14,Pavlodar region,obesity,0.33,total,overall
+2012,15,North Kazakhstan region,obesity,0.64,total,overall
+2012,16,East Kazakhstan region,obesity,0.37,total,overall
+2012,1,Nur-Sultan,obesity,0.52,total,overall
+2012,2,Almaty,obesity,0.26,total,overall
+2012,3,Akmola region,obesity,0.54,total,women
+2012,4,Aktobe region,obesity,0.34,total,women
+2012,5,Almaty region,obesity,0.30,total,women
+2012,6,Atyrau region,obesity,0.52,total,women
+2012,7,West Kazakkhstan region,obesity,1.02,total,women
+2012,8,Jambyl region,obesity,0.36,total,women
+2012,9,Karaganda region,obesity,0.76,total,women
+2012,10,Kostanay region,obesity,0.28,total,women
+2012,11,Kyzylorda region,obesity,0.43,total,women
+2012,12,Mangystau region,obesity,0.34,total,women
+2012,13,South Kazakhstan region,obesity,0.50,total,women
+2012,14,Pavlodar region,obesity,0.62,total,women
+2012,15,North Kazakhstan region,obesity,1.20,total,women
+2012,16,East Kazakhstan region,obesity,0.69,total,women
+2012,1,Nur-Sultan,obesity,0.99,total,women
+2012,2,Almaty,obesity,0.46,total,women
+2012,3,Akmola region,obesity,0.60,total,men
+2012,4,Aktobe region,obesity,0.38,total,men
+2012,5,Almaty region,obesity,0.32,total,men
+2012,6,Atyrau region,obesity,0.57,total,men
+2012,7,West Kazakkhstan region,obesity,1.15,total,men
+2012,8,Jambyl region,obesity,0.40,total,men
+2012,9,Karaganda region,obesity,0.90,total,men
+2012,10,Kostanay region,obesity,0.32,total,men
+2012,11,Kyzylorda region,obesity,0.44,total,men
+2012,12,Mangystau region,obesity,0.36,total,men
+2012,13,South Kazakhstan region,obesity,0.53,total,men
+2012,14,Pavlodar region,obesity,0.73,total,men
+2012,15,North Kazakhstan region,obesity,1.38,total,men
+2012,16,East Kazakhstan region,obesity,0.80,total,men
+2012,1,Nur-Sultan,obesity,1.10,total,men
+2012,2,Almaty,obesity,0.59,total,men
+2012,3,Akmola region,obesity,0.31,urban,overall
+2012,4,Aktobe region,obesity,0.16,urban,overall
+2012,5,Almaty region,obesity,0.21,urban,overall
+2012,6,Atyrau region,obesity,0.27,urban,overall
+2012,7,West Kazakkhstan region,obesity,0.31,urban,overall
+2012,8,Jambyl region,obesity,0.16,urban,overall
+2012,9,Karaganda region,obesity,0.44,urban,overall
+2012,10,Kostanay region,obesity,0.16,urban,overall
+2012,11,Kyzylorda region,obesity,0.28,urban,overall
+2012,12,Mangystau region,obesity,0.13,urban,overall
+2012,13,South Kazakhstan region,obesity,0.32,urban,overall
+2012,14,Pavlodar region,obesity,0.35,urban,overall
+2012,15,North Kazakhstan region,obesity,0.34,urban,overall
+2012,16,East Kazakhstan region,obesity,0.32,urban,overall
+2012,1,Nur-Sultan,obesity,0.52,urban,overall
+2012,2,Almaty,obesity,0.26,urban,overall
+2012,3,Akmola region,obesity,0.57,urban,women
+2012,4,Aktobe region,obesity,0.30,urban,women
+2012,5,Almaty region,obesity,0.38,urban,women
+2012,6,Atyrau region,obesity,0.50,urban,women
+2012,7,West Kazakkhstan region,obesity,0.56,urban,women
+2012,8,Jambyl region,obesity,0.30,urban,women
+2012,9,Karaganda region,obesity,0.79,urban,women
+2012,10,Kostanay region,obesity,0.29,urban,women
+2012,11,Kyzylorda region,obesity,0.53,urban,women
+2012,12,Mangystau region,obesity,0.25,urban,women
+2012,13,South Kazakhstan region,obesity,0.60,urban,women
+2012,14,Pavlodar region,obesity,0.63,urban,women
+2012,15,North Kazakhstan region,obesity,0.60,urban,women
+2012,16,East Kazakhstan region,obesity,0.58,urban,women
+2012,1,Nur-Sultan,obesity,0.99,urban,women
+2012,2,Almaty,obesity,0.46,urban,women
+2012,3,Akmola region,obesity,0.69,urban,men
+2012,4,Aktobe region,obesity,0.36,urban,men
+2012,5,Almaty region,obesity,0.45,urban,men
+2012,6,Atyrau region,obesity,0.58,urban,men
+2012,7,West Kazakkhstan region,obesity,0.70,urban,men
+2012,8,Jambyl region,obesity,0.36,urban,men
+2012,9,Karaganda region,obesity,0.97,urban,men
+2012,10,Kostanay region,obesity,0.37,urban,men
+2012,11,Kyzylorda region,obesity,0.58,urban,men
+2012,12,Mangystau region,obesity,0.28,urban,men
+2012,13,South Kazakhstan region,obesity,0.69,urban,men
+2012,14,Pavlodar region,obesity,0.78,urban,men
+2012,15,North Kazakhstan region,obesity,0.77,urban,men
+2012,16,East Kazakhstan region,obesity,0.72,urban,men
+2012,1,Nur-Sultan,obesity,1.10,urban,men
+2012,2,Almaty,obesity,0.59,urban,men
+2012,3,Akmola region,obesity,0.25,rural,overall
+2012,4,Aktobe region,obesity,0.21,rural,overall
+2012,5,Almaty region,obesity,0.14,rural,overall
+2012,6,Atyrau region,obesity,0.27,rural,overall
+2012,7,West Kazakkhstan region,obesity,0.78,rural,overall
+2012,8,Jambyl region,obesity,0.21,rural,overall
+2012,9,Karaganda region,obesity,0.32,rural,overall
+2012,10,Kostanay region,obesity,0.13,rural,overall
+2012,11,Kyzylorda region,obesity,0.17,rural,overall
+2012,12,Mangystau region,obesity,0.22,rural,overall
+2012,13,South Kazakhstan region,obesity,0.21,rural,overall
+2012,14,Pavlodar region,obesity,0.30,rural,overall
+2012,15,North Kazakhstan region,obesity,0.87,rural,overall
+2012,16,East Kazakhstan region,obesity,0.44,rural,overall
+2012,3,Akmola region,obesity,0.50,rural,women
+2012,4,Aktobe region,obesity,0.41,rural,women
+2012,5,Almaty region,obesity,0.27,rural,women
+2012,6,Atyrau region,obesity,0.54,rural,women
+2012,7,West Kazakkhstan region,obesity,1.54,rural,women
+2012,8,Jambyl region,obesity,0.41,rural,women
+2012,9,Karaganda region,obesity,0.63,rural,women
+2012,10,Kostanay region,obesity,0.26,rural,women
+2012,11,Kyzylorda region,obesity,0.35,rural,women
+2012,12,Mangystau region,obesity,0.44,rural,women
+2012,13,South Kazakhstan region,obesity,0.42,rural,women
+2012,14,Pavlodar region,obesity,0.59,rural,women
+2012,15,North Kazakhstan region,obesity,1.70,rural,women
+2012,16,East Kazakhstan region,obesity,0.87,rural,women
+2012,3,Akmola region,obesity,0.52,rural,men
+2012,4,Aktobe region,obesity,0.42,rural,men
+2012,5,Almaty region,obesity,0.29,rural,men
+2012,6,Atyrau region,obesity,0.55,rural,men
+2012,7,West Kazakkhstan region,obesity,1.56,rural,men
+2012,8,Jambyl region,obesity,0.42,rural,men
+2012,9,Karaganda region,obesity,0.63,rural,men
+2012,10,Kostanay region,obesity,0.28,rural,men
+2012,11,Kyzylorda region,obesity,0.34,rural,men
+2012,12,Mangystau region,obesity,0.44,rural,men
+2012,13,South Kazakhstan region,obesity,0.42,rural,men
+2012,14,Pavlodar region,obesity,0.62,rural,men
+2012,15,North Kazakhstan region,obesity,1.80,rural,men
+2012,16,East Kazakhstan region,obesity,0.90,rural,men
+2013,3,Akmola region,obesity,0.28,total,overall
+2013,4,Aktobe region,obesity,0.19,total,overall
+2013,5,Almaty region,obesity,0.18,total,overall
+2013,6,Atyrau region,obesity,0.22,total,overall
+2013,7,West Kazakkhstan region,obesity,0.40,total,overall
+2013,8,Jambyl region,obesity,0.21,total,overall
+2013,9,Karaganda region,obesity,0.36,total,overall
+2013,10,Kostanay region,obesity,0.15,total,overall
+2013,11,Kyzylorda region,obesity,0.23,total,overall
+2013,12,Mangystau region,obesity,0.12,total,overall
+2013,13,South Kazakhstan region,obesity,0.29,total,overall
+2013,14,Pavlodar region,obesity,0.36,total,overall
+2013,15,North Kazakhstan region,obesity,0.60,total,overall
+2013,16,East Kazakhstan region,obesity,0.35,total,overall
+2013,1,Nur-Sultan,obesity,0.63,total,overall
+2013,2,Almaty,obesity,0.27,total,overall
+2013,3,Akmola region,obesity,0.53,total,women
+2013,4,Aktobe region,obesity,0.35,total,women
+2013,5,Almaty region,obesity,0.35,total,women
+2013,6,Atyrau region,obesity,0.43,total,women
+2013,7,West Kazakkhstan region,obesity,0.75,total,women
+2013,8,Jambyl region,obesity,0.40,total,women
+2013,9,Karaganda region,obesity,0.67,total,women
+2013,10,Kostanay region,obesity,0.27,total,women
+2013,11,Kyzylorda region,obesity,0.44,total,women
+2013,12,Mangystau region,obesity,0.23,total,women
+2013,13,South Kazakhstan region,obesity,0.57,total,women
+2013,14,Pavlodar region,obesity,0.66,total,women
+2013,15,North Kazakhstan region,obesity,1.11,total,women
+2013,16,East Kazakhstan region,obesity,0.65,total,women
+2013,1,Nur-Sultan,obesity,1.20,total,women
+2013,2,Almaty,obesity,0.48,total,women
+2013,3,Akmola region,obesity,0.60,total,men
+2013,4,Aktobe region,obesity,0.40,total,men
+2013,5,Almaty region,obesity,0.38,total,men
+2013,6,Atyrau region,obesity,0.46,total,men
+2013,7,West Kazakkhstan region,obesity,0.84,total,men
+2013,8,Jambyl region,obesity,0.43,total,men
+2013,9,Karaganda region,obesity,0.79,total,men
+2013,10,Kostanay region,obesity,0.32,total,men
+2013,11,Kyzylorda region,obesity,0.46,total,men
+2013,12,Mangystau region,obesity,0.24,total,men
+2013,13,South Kazakhstan region,obesity,0.61,total,men
+2013,14,Pavlodar region,obesity,0.78,total,men
+2013,15,North Kazakhstan region,obesity,1.29,total,men
+2013,16,East Kazakhstan region,obesity,0.75,total,men
+2013,1,Nur-Sultan,obesity,1.35,total,men
+2013,2,Almaty,obesity,0.62,total,men
+2013,3,Akmola region,obesity,0.31,urban,overall
+2013,4,Aktobe region,obesity,0.17,urban,overall
+2013,5,Almaty region,obesity,0.25,urban,overall
+2013,6,Atyrau region,obesity,0.21,urban,overall
+2013,7,West Kazakkhstan region,obesity,0.25,urban,overall
+2013,8,Jambyl region,obesity,0.16,urban,overall
+2013,9,Karaganda region,obesity,0.37,urban,overall
+2013,10,Kostanay region,obesity,0.19,urban,overall
+2013,11,Kyzylorda region,obesity,0.33,urban,overall
+2013,12,Mangystau region,obesity,0.16,urban,overall
+2013,13,South Kazakhstan region,obesity,0.33,urban,overall
+2013,14,Pavlodar region,obesity,0.38,urban,overall
+2013,15,North Kazakhstan region,obesity,0.56,urban,overall
+2013,16,East Kazakhstan region,obesity,0.30,urban,overall
+2013,1,Nur-Sultan,obesity,0.63,urban,overall
+2013,2,Almaty,obesity,0.27,urban,overall
+2013,3,Akmola region,obesity,0.56,urban,women
+2013,4,Aktobe region,obesity,0.31,urban,women
+2013,5,Almaty region,obesity,0.47,urban,women
+2013,6,Atyrau region,obesity,0.39,urban,women
+2013,7,West Kazakkhstan region,obesity,0.45,urban,women
+2013,8,Jambyl region,obesity,0.29,urban,women
+2013,9,Karaganda region,obesity,0.68,urban,women
+2013,10,Kostanay region,obesity,0.33,urban,women
+2013,11,Kyzylorda region,obesity,0.63,urban,women
+2013,12,Mangystau region,obesity,0.30,urban,women
+2013,13,South Kazakhstan region,obesity,0.62,urban,women
+2013,14,Pavlodar region,obesity,0.68,urban,women
+2013,15,North Kazakhstan region,obesity,0.99,urban,women
+2013,16,East Kazakhstan region,obesity,0.54,urban,women
+2013,1,Nur-Sultan,obesity,1.20,urban,women
+2013,2,Almaty,obesity,0.48,urban,women
+2013,3,Akmola region,obesity,0.68,urban,men
+2013,4,Aktobe region,obesity,0.37,urban,men
+2013,5,Almaty region,obesity,0.55,urban,men
+2013,6,Atyrau region,obesity,0.46,urban,men
+2013,7,West Kazakkhstan region,obesity,0.56,urban,men
+2013,8,Jambyl region,obesity,0.35,urban,men
+2013,9,Karaganda region,obesity,0.83,urban,men
+2013,10,Kostanay region,obesity,0.42,urban,men
+2013,11,Kyzylorda region,obesity,0.70,urban,men
+2013,12,Mangystau region,obesity,0.34,urban,men
+2013,13,South Kazakhstan region,obesity,0.71,urban,men
+2013,14,Pavlodar region,obesity,0.85,urban,men
+2013,15,North Kazakhstan region,obesity,1.28,urban,men
+2013,16,East Kazakhstan region,obesity,0.68,urban,men
+2013,1,Nur-Sultan,obesity,1.35,urban,men
+2013,2,Almaty,obesity,0.62,urban,men
+2013,3,Akmola region,obesity,0.26,rural,overall
+2013,4,Aktobe region,obesity,0.21,rural,overall
+2013,5,Almaty region,obesity,0.16,rural,overall
+2013,6,Atyrau region,obesity,0.23,rural,overall
+2013,7,West Kazakkhstan region,obesity,0.54,rural,overall
+2013,8,Jambyl region,obesity,0.24,rural,overall
+2013,9,Karaganda region,obesity,0.32,rural,overall
+2013,10,Kostanay region,obesity,0.11,rural,overall
+2013,11,Kyzylorda region,obesity,0.14,rural,overall
+2013,12,Mangystau region,obesity,0.07,rural,overall
+2013,13,South Kazakhstan region,obesity,0.27,rural,overall
+2013,14,Pavlodar region,obesity,0.31,rural,overall
+2013,15,North Kazakhstan region,obesity,0.63,rural,overall
+2013,16,East Kazakhstan region,obesity,0.42,rural,overall
+2013,3,Akmola region,obesity,0.50,rural,women
+2013,4,Aktobe region,obesity,0.42,rural,women
+2013,5,Almaty region,obesity,0.31,rural,women
+2013,6,Atyrau region,obesity,0.46,rural,women
+2013,7,West Kazakkhstan region,obesity,1.08,rural,women
+2013,8,Jambyl region,obesity,0.48,rural,women
+2013,9,Karaganda region,obesity,0.64,rural,women
+2013,10,Kostanay region,obesity,0.20,rural,women
+2013,11,Kyzylorda region,obesity,0.29,rural,women
+2013,12,Mangystau region,obesity,0.14,rural,women
+2013,13,South Kazakhstan region,obesity,0.54,rural,women
+2013,14,Pavlodar region,obesity,0.60,rural,women
+2013,15,North Kazakhstan region,obesity,1.22,rural,women
+2013,16,East Kazakhstan region,obesity,0.82,rural,women
+2013,3,Akmola region,obesity,0.52,rural,men
+2013,4,Aktobe region,obesity,0.43,rural,men
+2013,5,Almaty region,obesity,0.33,rural,men
+2013,6,Atyrau region,obesity,0.47,rural,men
+2013,7,West Kazakkhstan region,obesity,1.09,rural,men
+2013,8,Jambyl region,obesity,0.49,rural,men
+2013,9,Karaganda region,obesity,0.64,rural,men
+2013,10,Kostanay region,obesity,0.22,rural,men
+2013,11,Kyzylorda region,obesity,0.28,rural,men
+2013,12,Mangystau region,obesity,0.14,rural,men
+2013,13,South Kazakhstan region,obesity,0.54,rural,men
+2013,14,Pavlodar region,obesity,0.63,rural,men
+2013,15,North Kazakhstan region,obesity,1.29,rural,men
+2013,16,East Kazakhstan region,obesity,0.85,rural,men
+2014,3,Akmola region,obesity,0.25,total,overall
+2014,4,Aktobe region,obesity,0.19,total,overall
+2014,5,Almaty region,obesity,0.22,total,overall
+2014,6,Atyrau region,obesity,0.23,total,overall
+2014,7,West Kazakkhstan region,obesity,0.51,total,overall
+2014,8,Jambyl region,obesity,0.15,total,overall
+2014,9,Karaganda region,obesity,0.37,total,overall
+2014,10,Kostanay region,obesity,0.13,total,overall
+2014,11,Kyzylorda region,obesity,0.31,total,overall
+2014,12,Mangystau region,obesity,0.19,total,overall
+2014,13,South Kazakhstan region,obesity,0.13,total,overall
+2014,14,Pavlodar region,obesity,0.36,total,overall
+2014,15,North Kazakhstan region,obesity,0.47,total,overall
+2014,16,East Kazakhstan region,obesity,0.34,total,overall
+2014,1,Nur-Sultan,obesity,0.79,total,overall
+2014,2,Almaty,obesity,0.23,total,overall
+2014,3,Akmola region,obesity,0.47,total,women
+2014,4,Aktobe region,obesity,0.36,total,women
+2014,5,Almaty region,obesity,0.43,total,women
+2014,6,Atyrau region,obesity,0.44,total,women
+2014,7,West Kazakkhstan region,obesity,0.96,total,women
+2014,8,Jambyl region,obesity,0.28,total,women
+2014,9,Karaganda region,obesity,0.68,total,women
+2014,10,Kostanay region,obesity,0.25,total,women
+2014,11,Kyzylorda region,obesity,0.60,total,women
+2014,12,Mangystau region,obesity,0.37,total,women
+2014,13,South Kazakhstan region,obesity,0.26,total,women
+2014,14,Pavlodar region,obesity,0.67,total,women
+2014,15,North Kazakhstan region,obesity,0.88,total,women
+2014,16,East Kazakhstan region,obesity,0.64,total,women
+2014,1,Nur-Sultan,obesity,1.50,total,women
+2014,2,Almaty,obesity,0.41,total,women
+2014,3,Akmola region,obesity,0.52,total,men
+2014,4,Aktobe region,obesity,0.40,total,men
+2014,5,Almaty region,obesity,0.46,total,men
+2014,6,Atyrau region,obesity,0.48,total,men
+2014,7,West Kazakkhstan region,obesity,1.07,total,men
+2014,8,Jambyl region,obesity,0.31,total,men
+2014,9,Karaganda region,obesity,0.80,total,men
+2014,10,Kostanay region,obesity,0.29,total,men
+2014,11,Kyzylorda region,obesity,0.62,total,men
+2014,12,Mangystau region,obesity,0.39,total,men
+2014,13,South Kazakhstan region,obesity,0.27,total,men
+2014,14,Pavlodar region,obesity,0.79,total,men
+2014,15,North Kazakhstan region,obesity,1.02,total,men
+2014,16,East Kazakhstan region,obesity,0.74,total,men
+2014,1,Nur-Sultan,obesity,1.69,total,men
+2014,2,Almaty,obesity,0.52,total,men
+2014,3,Akmola region,obesity,0.26,urban,overall
+2014,4,Aktobe region,obesity,0.17,urban,overall
+2014,5,Almaty region,obesity,0.21,urban,overall
+2014,6,Atyrau region,obesity,0.23,urban,overall
+2014,7,West Kazakkhstan region,obesity,0.44,urban,overall
+2014,8,Jambyl region,obesity,0.25,urban,overall
+2014,9,Karaganda region,obesity,0.38,urban,overall
+2014,10,Kostanay region,obesity,0.17,urban,overall
+2014,11,Kyzylorda region,obesity,0.32,urban,overall
+2014,12,Mangystau region,obesity,0.14,urban,overall
+2014,13,South Kazakhstan region,obesity,0.16,urban,overall
+2014,14,Pavlodar region,obesity,0.40,urban,overall
+2014,15,North Kazakhstan region,obesity,0.32,urban,overall
+2014,16,East Kazakhstan region,obesity,0.30,urban,overall
+2014,1,Nur-Sultan,obesity,0.79,urban,overall
+2014,2,Almaty,obesity,0.23,urban,overall
+2014,3,Akmola region,obesity,0.47,urban,women
+2014,4,Aktobe region,obesity,0.32,urban,women
+2014,5,Almaty region,obesity,0.39,urban,women
+2014,6,Atyrau region,obesity,0.43,urban,women
+2014,7,West Kazakkhstan region,obesity,0.79,urban,women
+2014,8,Jambyl region,obesity,0.46,urban,women
+2014,9,Karaganda region,obesity,0.68,urban,women
+2014,10,Kostanay region,obesity,0.30,urban,women
+2014,11,Kyzylorda region,obesity,0.60,urban,women
+2014,12,Mangystau region,obesity,0.26,urban,women
+2014,13,South Kazakhstan region,obesity,0.30,urban,women
+2014,14,Pavlodar region,obesity,0.72,urban,women
+2014,15,North Kazakhstan region,obesity,0.58,urban,women
+2014,16,East Kazakhstan region,obesity,0.55,urban,women
+2014,1,Nur-Sultan,obesity,1.50,urban,women
+2014,2,Almaty,obesity,0.41,urban,women
+2014,3,Akmola region,obesity,0.57,urban,men
+2014,4,Aktobe region,obesity,0.38,urban,men
+2014,5,Almaty region,obesity,0.45,urban,men
+2014,6,Atyrau region,obesity,0.51,urban,men
+2014,7,West Kazakkhstan region,obesity,0.98,urban,men
+2014,8,Jambyl region,obesity,0.56,urban,men
+2014,9,Karaganda region,obesity,0.84,urban,men
+2014,10,Kostanay region,obesity,0.38,urban,men
+2014,11,Kyzylorda region,obesity,0.67,urban,men
+2014,12,Mangystau region,obesity,0.29,urban,men
+2014,13,South Kazakhstan region,obesity,0.34,urban,men
+2014,14,Pavlodar region,obesity,0.89,urban,men
+2014,15,North Kazakhstan region,obesity,0.74,urban,men
+2014,16,East Kazakhstan region,obesity,0.68,urban,men
+2014,1,Nur-Sultan,obesity,1.69,urban,men
+2014,2,Almaty,obesity,0.52,urban,men
+2014,3,Akmola region,obesity,0.24,rural,overall
+2014,4,Aktobe region,obesity,0.22,rural,overall
+2014,5,Almaty region,obesity,0.23,rural,overall
+2014,6,Atyrau region,obesity,0.22,rural,overall
+2014,7,West Kazakkhstan region,obesity,0.57,rural,overall
+2014,8,Jambyl region,obesity,0.07,rural,overall
+2014,9,Karaganda region,obesity,0.32,rural,overall
+2014,10,Kostanay region,obesity,0.10,rural,overall
+2014,11,Kyzylorda region,obesity,0.30,rural,overall
+2014,12,Mangystau region,obesity,0.25,rural,overall
+2014,13,South Kazakhstan region,obesity,0.11,rural,overall
+2014,14,Pavlodar region,obesity,0.28,rural,overall
+2014,15,North Kazakhstan region,obesity,0.59,rural,overall
+2014,16,East Kazakhstan region,obesity,0.40,rural,overall
+2014,3,Akmola region,obesity,0.46,rural,women
+2014,4,Aktobe region,obesity,0.43,rural,women
+2014,5,Almaty region,obesity,0.44,rural,women
+2014,6,Atyrau region,obesity,0.45,rural,women
+2014,7,West Kazakkhstan region,obesity,1.14,rural,women
+2014,8,Jambyl region,obesity,0.15,rural,women
+2014,9,Karaganda region,obesity,0.64,rural,women
+2014,10,Kostanay region,obesity,0.19,rural,women
+2014,11,Kyzylorda region,obesity,0.60,rural,women
+2014,12,Mangystau region,obesity,0.50,rural,women
+2014,13,South Kazakhstan region,obesity,0.22,rural,women
+2014,14,Pavlodar region,obesity,0.55,rural,women
+2014,15,North Kazakhstan region,obesity,1.14,rural,women
+2014,16,East Kazakhstan region,obesity,0.79,rural,women
+2014,3,Akmola region,obesity,0.48,rural,men
+2014,4,Aktobe region,obesity,0.44,rural,men
+2014,5,Almaty region,obesity,0.46,rural,men
+2014,6,Atyrau region,obesity,0.45,rural,men
+2014,7,West Kazakkhstan region,obesity,1.15,rural,men
+2014,8,Jambyl region,obesity,0.15,rural,men
+2014,9,Karaganda region,obesity,0.64,rural,men
+2014,10,Kostanay region,obesity,0.20,rural,men
+2014,11,Kyzylorda region,obesity,0.59,rural,men
+2014,12,Mangystau region,obesity,0.50,rural,men
+2014,13,South Kazakhstan region,obesity,0.22,rural,men
+2014,14,Pavlodar region,obesity,0.57,rural,men
+2014,15,North Kazakhstan region,obesity,1.20,rural,men
+2014,16,East Kazakhstan region,obesity,0.81,rural,men
+2015,3,Akmola region,obesity,0.25,total,overall
+2015,4,Aktobe region,obesity,0.19,total,overall
+2015,5,Almaty region,obesity,0.24,total,overall
+2015,6,Atyrau region,obesity,0.25,total,overall
+2015,7,West Kazakkhstan region,obesity,0.37,total,overall
+2015,8,Jambyl region,obesity,0.56,total,overall
+2015,9,Karaganda region,obesity,0.35,total,overall
+2015,10,Kostanay region,obesity,0.14,total,overall
+2015,11,Kyzylorda region,obesity,0.25,total,overall
+2015,12,Mangystau region,obesity,0.07,total,overall
+2015,13,South Kazakhstan region,obesity,0.27,total,overall
+2015,14,Pavlodar region,obesity,0.35,total,overall
+2015,15,North Kazakhstan region,obesity,0.42,total,overall
+2015,16,East Kazakhstan region,obesity,0.33,total,overall
+2015,1,Nur-Sultan,obesity,0.99,total,overall
+2015,2,Almaty,obesity,0.25,total,overall
+2015,3,Akmola region,obesity,0.48,total,women
+2015,4,Aktobe region,obesity,0.36,total,women
+2015,5,Almaty region,obesity,0.47,total,women
+2015,6,Atyrau region,obesity,0.48,total,women
+2015,7,West Kazakkhstan region,obesity,0.70,total,women
+2015,8,Jambyl region,obesity,1.07,total,women
+2015,9,Karaganda region,obesity,0.65,total,women
+2015,10,Kostanay region,obesity,0.25,total,women
+2015,11,Kyzylorda region,obesity,0.49,total,women
+2015,12,Mangystau region,obesity,0.14,total,women
+2015,13,South Kazakhstan region,obesity,0.53,total,women
+2015,14,Pavlodar region,obesity,0.64,total,women
+2015,15,North Kazakhstan region,obesity,0.78,total,women
+2015,16,East Kazakhstan region,obesity,0.61,total,women
+2015,1,Nur-Sultan,obesity,1.87,total,women
+2015,2,Almaty,obesity,0.45,total,women
+2015,3,Akmola region,obesity,0.53,total,men
+2015,4,Aktobe region,obesity,0.41,total,men
+2015,5,Almaty region,obesity,0.50,total,men
+2015,6,Atyrau region,obesity,0.52,total,men
+2015,7,West Kazakkhstan region,obesity,0.79,total,men
+2015,8,Jambyl region,obesity,1.17,total,men
+2015,9,Karaganda region,obesity,0.77,total,men
+2015,10,Kostanay region,obesity,0.30,total,men
+2015,11,Kyzylorda region,obesity,0.51,total,men
+2015,12,Mangystau region,obesity,0.15,total,men
+2015,13,South Kazakhstan region,obesity,0.56,total,men
+2015,14,Pavlodar region,obesity,0.76,total,men
+2015,15,North Kazakhstan region,obesity,0.90,total,men
+2015,16,East Kazakhstan region,obesity,0.71,total,men
+2015,1,Nur-Sultan,obesity,2.11,total,men
+2015,2,Almaty,obesity,0.58,total,men
+2015,3,Akmola region,obesity,0.25,urban,overall
+2015,4,Aktobe region,obesity,0.19,urban,overall
+2015,5,Almaty region,obesity,0.23,urban,overall
+2015,6,Atyrau region,obesity,0.26,urban,overall
+2015,7,West Kazakkhstan region,obesity,0.22,urban,overall
+2015,8,Jambyl region,obesity,0.90,urban,overall
+2015,9,Karaganda region,obesity,0.37,urban,overall
+2015,10,Kostanay region,obesity,0.19,urban,overall
+2015,11,Kyzylorda region,obesity,0.35,urban,overall
+2015,12,Mangystau region,obesity,0.03,urban,overall
+2015,13,South Kazakhstan region,obesity,0.39,urban,overall
+2015,14,Pavlodar region,obesity,0.36,urban,overall
+2015,15,North Kazakhstan region,obesity,0.30,urban,overall
+2015,16,East Kazakhstan region,obesity,0.30,urban,overall
+2015,1,Nur-Sultan,obesity,0.99,urban,overall
+2015,2,Almaty,obesity,0.25,urban,overall
+2015,3,Akmola region,obesity,0.46,urban,women
+2015,4,Aktobe region,obesity,0.34,urban,women
+2015,5,Almaty region,obesity,0.42,urban,women
+2015,6,Atyrau region,obesity,0.48,urban,women
+2015,7,West Kazakkhstan region,obesity,0.40,urban,women
+2015,8,Jambyl region,obesity,1.64,urban,women
+2015,9,Karaganda region,obesity,0.67,urban,women
+2015,10,Kostanay region,obesity,0.34,urban,women
+2015,11,Kyzylorda region,obesity,0.67,urban,women
+2015,12,Mangystau region,obesity,0.06,urban,women
+2015,13,South Kazakhstan region,obesity,0.74,urban,women
+2015,14,Pavlodar region,obesity,0.65,urban,women
+2015,15,North Kazakhstan region,obesity,0.53,urban,women
+2015,16,East Kazakhstan region,obesity,0.55,urban,women
+2015,1,Nur-Sultan,obesity,1.87,urban,women
+2015,2,Almaty,obesity,0.45,urban,women
+2015,3,Akmola region,obesity,0.55,urban,men
+2015,4,Aktobe region,obesity,0.41,urban,men
+2015,5,Almaty region,obesity,50.00,urban,men
+2015,6,Atyrau region,obesity,0.56,urban,men
+2015,7,West Kazakkhstan region,obesity,0.50,urban,men
+2015,8,Jambyl region,obesity,1.99,urban,men
+2015,9,Karaganda region,obesity,0.82,urban,men
+2015,10,Kostanay region,obesity,0.43,urban,men
+2015,11,Kyzylorda region,obesity,0.74,urban,men
+2015,12,Mangystau region,obesity,0.06,urban,men
+2015,13,South Kazakhstan region,obesity,0.83,urban,men
+2015,14,Pavlodar region,obesity,0.81,urban,men
+2015,15,North Kazakhstan region,obesity,0.69,urban,men
+2015,16,East Kazakhstan region,obesity,0.68,urban,men
+2015,1,Nur-Sultan,obesity,2.11,urban,men
+2015,2,Almaty,obesity,0.58,urban,men
+2015,3,Akmola region,obesity,0.25,rural,overall
+2015,4,Aktobe region,obesity,0.20,rural,overall
+2015,5,Almaty region,obesity,0.25,rural,overall
+2015,6,Atyrau region,obesity,0.24,rural,overall
+2015,7,West Kazakkhstan region,obesity,0.52,rural,overall
+2015,8,Jambyl region,obesity,0.32,rural,overall
+2015,9,Karaganda region,obesity,0.29,rural,overall
+2015,10,Kostanay region,obesity,0.08,rural,overall
+2015,11,Kyzylorda region,obesity,0.17,rural,overall
+2015,12,Mangystau region,obesity,0.12,rural,overall
+2015,13,South Kazakhstan region,obesity,0.17,rural,overall
+2015,14,Pavlodar region,obesity,0.31,rural,overall
+2015,15,North Kazakhstan region,obesity,0.51,rural,overall
+2015,16,East Kazakhstan region,obesity,0.37,rural,overall
+2015,3,Akmola region,obesity,0.50,rural,women
+2015,4,Aktobe region,obesity,0.40,rural,women
+2015,5,Almaty region,obesity,0.48,rural,women
+2015,6,Atyrau region,obesity,0.48,rural,women
+2015,7,West Kazakkhstan region,obesity,1.04,rural,women
+2015,8,Jambyl region,obesity,0.63,rural,women
+2015,9,Karaganda region,obesity,0.59,rural,women
+2015,10,Kostanay region,obesity,0.15,rural,women
+2015,11,Kyzylorda region,obesity,0.35,rural,women
+2015,12,Mangystau region,obesity,0.23,rural,women
+2015,13,South Kazakhstan region,obesity,0.34,rural,women
+2015,14,Pavlodar region,obesity,0.61,rural,women
+2015,15,North Kazakhstan region,obesity,0.99,rural,women
+2015,16,East Kazakhstan region,obesity,0.72,rural,women
+2015,3,Akmola region,obesity,0.52,rural,men
+2015,4,Aktobe region,obesity,0.41,rural,men
+2015,5,Almaty region,obesity,0.50,rural,men
+2015,6,Atyrau region,obesity,0.49,rural,men
+2015,7,West Kazakkhstan region,obesity,1.05,rural,men
+2015,8,Jambyl region,obesity,0.64,rural,men
+2015,9,Karaganda region,obesity,0.58,rural,men
+2015,10,Kostanay region,obesity,0.16,rural,men
+2015,11,Kyzylorda region,obesity,0.34,rural,men
+2015,12,Mangystau region,obesity,0.24,rural,men
+2015,13,South Kazakhstan region,obesity,0.33,rural,men
+2015,14,Pavlodar region,obesity,0.63,rural,men
+2015,15,North Kazakhstan region,obesity,1.04,rural,men
+2015,16,East Kazakhstan region,obesity,0.74,rural,men
+2016,3,Akmola region,obesity,0.22,total,overall
+2016,4,Aktobe region,obesity,0.16,total,overall
+2016,5,Almaty region,obesity,0.15,total,overall
+2016,6,Atyrau region,obesity,0.18,total,overall
+2016,7,West Kazakkhstan region,obesity,0.22,total,overall
+2016,8,Jambyl region,obesity,0.42,total,overall
+2016,9,Karaganda region,obesity,0.25,total,overall
+2016,10,Kostanay region,obesity,0.04,total,overall
+2016,11,Kyzylorda region,obesity,0.12,total,overall
+2016,12,Mangystau region,obesity,0.06,total,overall
+2016,13,South Kazakhstan region,obesity,0.19,total,overall
+2016,14,Pavlodar region,obesity,0.20,total,overall
+2016,15,North Kazakhstan region,obesity,0.30,total,overall
+2016,16,East Kazakhstan region,obesity,0.30,total,overall
+2016,1,Nur-Sultan,obesity,0.82,total,overall
+2016,2,Almaty,obesity,0.24,total,overall
+2016,3,Akmola region,obesity,0.26,total,women
+2016,4,Aktobe region,obesity,0.17,total,women
+2016,5,Almaty region,obesity,0.22,total,women
+2016,6,Atyrau region,obesity,0.21,total,women
+2016,7,West Kazakkhstan region,obesity,0.29,total,women
+2016,8,Jambyl region,obesity,0.58,total,women
+2016,9,Karaganda region,obesity,0.32,total,women
+2016,10,Kostanay region,obesity,0.04,total,women
+2016,11,Kyzylorda region,obesity,0.16,total,women
+2016,12,Mangystau region,obesity,0.09,total,women
+2016,13,South Kazakhstan region,obesity,0.27,total,women
+2016,14,Pavlodar region,obesity,0.30,total,women
+2016,15,North Kazakhstan region,obesity,0.47,total,women
+2016,16,East Kazakhstan region,obesity,0.35,total,women
+2016,1,Nur-Sultan,obesity,1.07,total,women
+2016,2,Almaty,obesity,0.26,total,women
+2016,3,Akmola region,obesity,0.18,total,men
+2016,4,Aktobe region,obesity,0.15,total,men
+2016,5,Almaty region,obesity,0.08,total,men
+2016,6,Atyrau region,obesity,0.15,total,men
+2016,7,West Kazakkhstan region,obesity,0.16,total,men
+2016,8,Jambyl region,obesity,0.30,total,men
+2016,9,Karaganda region,obesity,0.17,total,men
+2016,10,Kostanay region,obesity,0.03,total,men
+2016,11,Kyzylorda region,obesity,0.09,total,men
+2016,12,Mangystau region,obesity,0.03,total,men
+2016,13,South Kazakhstan region,obesity,0.10,total,men
+2016,14,Pavlodar region,obesity,0.12,total,men
+2016,15,North Kazakhstan region,obesity,0.12,total,men
+2016,16,East Kazakhstan region,obesity,0.24,total,men
+2016,1,Nur-Sultan,obesity,0.54,total,men
+2016,2,Almaty,obesity,0.21,total,men
+2016,3,Akmola region,obesity,0.15,urban,overall
+2016,4,Aktobe region,obesity,0.12,urban,overall
+2016,5,Almaty region,obesity,0.26,urban,overall
+2016,6,Atyrau region,obesity,0.11,urban,overall
+2016,7,West Kazakkhstan region,obesity,0.05,urban,overall
+2016,8,Jambyl region,obesity,0.63,urban,overall
+2016,9,Karaganda region,obesity,0.24,urban,overall
+2016,10,Kostanay region,obesity,0.03,urban,overall
+2016,11,Kyzylorda region,obesity,0.20,urban,overall
+2016,12,Mangystau region,obesity,0.04,urban,overall
+2016,13,South Kazakhstan region,obesity,0.20,urban,overall
+2016,14,Pavlodar region,obesity,0.19,urban,overall
+2016,15,North Kazakhstan region,obesity,0.13,urban,overall
+2016,16,East Kazakhstan region,obesity,0.29,urban,overall
+2016,1,Nur-Sultan,obesity,0.82,urban,overall
+2016,2,Almaty,obesity,0.24,urban,overall
+2016,3,Akmola region,obesity,0.10,urban,women
+2016,4,Aktobe region,obesity,0.11,urban,women
+2016,5,Almaty region,obesity,0.36,urban,women
+2016,6,Atyrau region,obesity,0.08,urban,women
+2016,7,West Kazakkhstan region,obesity,0.07,urban,women
+2016,8,Jambyl region,obesity,0.72,urban,women
+2016,9,Karaganda region,obesity,0.30,urban,women
+2016,10,Kostanay region,obesity,0.04,urban,women
+2016,11,Kyzylorda region,obesity,0.29,urban,women
+2016,12,Mangystau region,obesity,0.04,urban,women
+2016,13,South Kazakhstan region,obesity,0.30,urban,women
+2016,14,Pavlodar region,obesity,0.26,urban,women
+2016,15,North Kazakhstan region,obesity,0.18,urban,women
+2016,16,East Kazakhstan region,obesity,0.27,urban,women
+2016,1,Nur-Sultan,obesity,1.07,urban,women
+2016,2,Almaty,obesity,0.26,urban,women
+2016,3,Akmola region,obesity,0.22,urban,men
+2016,4,Aktobe region,obesity,0.14,urban,men
+2016,5,Almaty region,obesity,0.14,urban,men
+2016,6,Atyrau region,obesity,0.13,urban,men
+2016,7,West Kazakkhstan region,obesity,0.04,urban,men
+2016,8,Jambyl region,obesity,0.53,urban,men
+2016,9,Karaganda region,obesity,0.18,urban,men
+2016,10,Kostanay region,obesity,0.02,urban,men
+2016,11,Kyzylorda region,obesity,0.11,urban,men
+2016,12,Mangystau region,obesity,0.01,urban,men
+2016,13,South Kazakhstan region,obesity,0.08,urban,men
+2016,14,Pavlodar region,obesity,0.11,urban,men
+2016,15,North Kazakhstan region,obesity,0.05,urban,men
+2016,16,East Kazakhstan region,obesity,0.31,urban,men
+2016,1,Nur-Sultan,obesity,0.54,urban,men
+2016,2,Almaty,obesity,0.21,urban,men
+2016,3,Akmola region,obesity,0.29,rural,overall
+2016,4,Aktobe region,obesity,0.21,rural,overall
+2016,5,Almaty region,obesity,0.12,rural,overall
+2016,6,Atyrau region,obesity,0.25,rural,overall
+2016,7,West Kazakkhstan region,obesity,0.40,rural,overall
+2016,8,Jambyl region,obesity,0.27,rural,overall
+2016,9,Karaganda region,obesity,0.29,rural,overall
+2016,10,Kostanay region,obesity,0.04,rural,overall
+2016,11,Kyzylorda region,obesity,0.06,rural,overall
+2016,12,Mangystau region,obesity,0.07,rural,overall
+2016,13,South Kazakhstan region,obesity,0.18,rural,overall
+2016,14,Pavlodar region,obesity,0.26,rural,overall
+2016,15,North Kazakhstan region,obesity,0.45,rural,overall
+2016,16,East Kazakhstan region,obesity,0.32,rural,overall
+2016,3,Akmola region,obesity,0.42,rural,women
+2016,4,Aktobe region,obesity,0.27,rural,women
+2016,5,Almaty region,obesity,0.17,rural,women
+2016,6,Atyrau region,obesity,0.33,rural,women
+2016,7,West Kazakkhstan region,obesity,0.54,rural,women
+2016,8,Jambyl region,obesity,0.39,rural,women
+2016,9,Karaganda region,obesity,0.43,rural,women
+2016,10,Kostanay region,obesity,0.04,rural,women
+2016,11,Kyzylorda region,obesity,0.05,rural,women
+2016,12,Mangystau region,obesity,0.13,rural,women
+2016,13,South Kazakhstan region,obesity,0.24,rural,women
+2016,14,Pavlodar region,obesity,0.39,rural,women
+2016,15,North Kazakhstan region,obesity,0.72,rural,women
+2016,16,East Kazakhstan region,obesity,0.50,rural,women
+2016,3,Akmola region,obesity,0.15,rural,men
+2016,4,Aktobe region,obesity,0.15,rural,men
+2016,5,Almaty region,obesity,0.06,rural,men
+2016,6,Atyrau region,obesity,0.17,rural,men
+2016,7,West Kazakkhstan region,obesity,0.26,rural,men
+2016,8,Jambyl region,obesity,0.15,rural,men
+2016,9,Karaganda region,obesity,0.15,rural,men
+2016,10,Kostanay region,obesity,0.04,rural,men
+2016,11,Kyzylorda region,obesity,0.07,rural,men
+2016,12,Mangystau region,obesity,0.02,rural,men
+2016,13,South Kazakhstan region,obesity,0.12,rural,men
+2016,14,Pavlodar region,obesity,0.13,rural,men
+2016,15,North Kazakhstan region,obesity,0.16,rural,men
+2016,16,East Kazakhstan region,obesity,0.14,rural,men
+2017,3,Akmola region,obesity,0.25,total,overall
+2017,4,Aktobe region,obesity,0.23,total,overall
+2017,5,Almaty region,obesity,0.24,total,overall
+2017,6,Atyrau region,obesity,0.27,total,overall
+2017,7,West Kazakkhstan region,obesity,0.25,total,overall
+2017,8,Jambyl region,obesity,0.44,total,overall
+2017,9,Karaganda region,obesity,0.28,total,overall
+2017,10,Kostanay region,obesity,0.08,total,overall
+2017,11,Kyzylorda region,obesity,0.68,total,overall
+2017,12,Mangystau region,obesity,0.08,total,overall
+2017,13,South Kazakhstan region,obesity,0.25,total,overall
+2017,14,Pavlodar region,obesity,0.24,total,overall
+2017,15,North Kazakhstan region,obesity,0.36,total,overall
+2017,16,East Kazakhstan region,obesity,0.29,total,overall
+2017,1,Nur-Sultan,obesity,0.53,total,overall
+2017,2,Almaty,obesity,0.14,total,overall
+2017,3,Akmola region,obesity,0.3,total,women
+2017,4,Aktobe region,obesity,0.28,total,women
+2017,5,Almaty region,obesity,0.2,total,women
+2017,6,Atyrau region,obesity,0.29,total,women
+2017,7,West Kazakkhstan region,obesity,0.22,total,women
+2017,8,Jambyl region,obesity,0.27,total,women
+2017,9,Karaganda region,obesity,0.33,total,women
+2017,10,Kostanay region,obesity,0.16,total,women
+2017,11,Kyzylorda region,obesity,0.66,total,women
+2017,12,Mangystau region,obesity,0.08,total,women
+2017,13,South Kazakhstan region,obesity,0.33,total,women
+2017,14,Pavlodar region,obesity,0.37,total,women
+2017,15,North Kazakhstan region,obesity,0.56,total,women
+2017,16,East Kazakhstan region,obesity,0.28,total,women
+2017,1,Nur-Sultan,obesity,0.68,total,women
+2017,2,Almaty,obesity,0.22,total,women
+2017,3,Akmola region,obesity,0.26,total,men
+2017,4,Aktobe region,obesity,0.23,total,men
+2017,5,Almaty region,obesity,0.1,total,men
+2017,6,Atyrau region,obesity,0.19,total,men
+2017,7,West Kazakkhstan region,obesity,0.11,total,men
+2017,8,Jambyl region,obesity,0.19,total,men
+2017,9,Karaganda region,obesity,0.2,total,men
+2017,10,Kostanay region,obesity,0.15,total,men
+2017,11,Kyzylorda region,obesity,0.39,total,men
+2017,12,Mangystau region,obesity,0.07,total,men
+2017,13,South Kazakhstan region,obesity,0.23,total,men
+2017,14,Pavlodar region,obesity,0.22,total,men
+2017,15,North Kazakhstan region,obesity,0.37,total,men
+2017,16,East Kazakhstan region,obesity,0.19,total,men
+2017,1,Nur-Sultan,obesity,0.3,total,men
+2017,2,Almaty,obesity,0.16,total,men
+2017,3,Akmola region,obesity,0.29,urban,overall
+2017,4,Aktobe region,obesity,0.31,urban,overall
+2017,5,Almaty region,obesity,0.17,urban,overall
+2017,6,Atyrau region,obesity,0.25,urban,overall
+2017,7,West Kazakkhstan region,obesity,0.1,urban,overall
+2017,8,Jambyl region,obesity,0.27,urban,overall
+2017,9,Karaganda region,obesity,0.28,urban,overall
+2017,10,Kostanay region,obesity,0.17,urban,overall
+2017,11,Kyzylorda region,obesity,0.25,urban,overall
+2017,12,Mangystau region,obesity,0.06,urban,overall
+2017,13,South Kazakhstan region,obesity,0.33,urban,overall
+2017,14,Pavlodar region,obesity,0.34,urban,overall
+2017,15,North Kazakhstan region,obesity,0.47,urban,overall
+2017,16,East Kazakhstan region,obesity,0.24,urban,overall
+2017,1,Nur-Sultan,obesity,0.5,urban,overall
+2017,2,Almaty,obesity,0.19,urban,overall
+2017,3,Akmola region,obesity,0.23,urban,women
+2017,4,Aktobe region,obesity,0.32,urban,women
+2017,5,Almaty region,obesity,0.22,urban,women
+2017,6,Atyrau region,obesity,0.31,urban,women
+2017,7,West Kazakkhstan region,obesity,0.13,urban,women
+2017,8,Jambyl region,obesity,0.27,urban,women
+2017,9,Karaganda region,obesity,0.34,urban,women
+2017,10,Kostanay region,obesity,0.16,urban,women
+2017,11,Kyzylorda region,obesity,0.32,urban,women
+2017,12,Mangystau region,obesity,0.06,urban,women
+2017,13,South Kazakhstan region,obesity,0.38,urban,women
+2017,14,Pavlodar region,obesity,0.41,urban,women
+2017,15,North Kazakhstan region,obesity,0.48,urban,women
+2017,16,East Kazakhstan region,obesity,0.28,urban,women
+2017,1,Nur-Sultan,obesity,0.68,urban,women
+2017,2,Almaty,obesity,0.22,urban,women
+2017,3,Akmola region,obesity,0.35,urban,men
+2017,4,Aktobe region,obesity,0.29,urban,men
+2017,5,Almaty region,obesity,0.11,urban,men
+2017,6,Atyrau region,obesity,0.18,urban,men
+2017,7,West Kazakkhstan region,obesity,0.07,urban,men
+2017,8,Jambyl region,obesity,0.28,urban,men
+2017,9,Karaganda region,obesity,0.21,urban,men
+2017,10,Kostanay region,obesity,0.18,urban,men
+2017,11,Kyzylorda region,obesity,0.18,urban,men
+2017,12,Mangystau region,obesity,0.05,urban,men
+2017,13,South Kazakhstan region,obesity,0.28,urban,men
+2017,14,Pavlodar region,obesity,0.27,urban,men
+2017,15,North Kazakhstan region,obesity,0.45,urban,men
+2017,16,East Kazakhstan region,obesity,0.21,urban,men
+2017,1,Nur-Sultan,obesity,0.3,urban,men
+2017,2,Almaty,obesity,0.16,urban,men
+2017,3,Akmola region,obesity,0.27,rural,overall
+2017,4,Aktobe region,obesity,0.17,rural,overall
+2017,5,Almaty region,obesity,0.15,rural,overall
+2017,6,Atyrau region,obesity,0.23,rural,overall
+2017,7,West Kazakkhstan region,obesity,0.23,rural,overall
+2017,8,Jambyl region,obesity,0.21,rural,overall
+2017,9,Karaganda region,obesity,0.22,rural,overall
+2017,10,Kostanay region,obesity,0.13,rural,overall
+2017,11,Kyzylorda region,obesity,0.74,rural,overall
+2017,12,Mangystau region,obesity,0.09,rural,overall
+2017,13,South Kazakhstan region,obesity,0.23,rural,overall
+2017,14,Pavlodar region,obesity,0.2,rural,overall
+2017,15,North Kazakhstan region,obesity,0.47,rural,overall
+2017,16,East Kazakhstan region,obesity,0.23,rural,overall
+2017,3,Akmola region,obesity,0.36,rural,women
+2017,4,Aktobe region,obesity,0.2,rural,women
+2017,5,Almaty region,obesity,0.2,rural,women
+2017,6,Atyrau region,obesity,0.28,rural,women
+2017,7,West Kazakkhstan region,obesity,0.32,rural,women
+2017,8,Jambyl region,obesity,0.28,rural,women
+2017,9,Karaganda region,obesity,0.3,rural,women
+2017,10,Kostanay region,obesity,0.16,rural,women
+2017,11,Kyzylorda region,obesity,0.95,rural,women
+2017,12,Mangystau region,obesity,0.1,rural,women
+2017,13,South Kazakhstan region,obesity,0.28,rural,women
+2017,14,Pavlodar region,obesity,0.27,rural,women
+2017,15,North Kazakhstan region,obesity,0.63,rural,women
+2017,16,East Kazakhstan region,obesity,0.3,rural,women
+2017,3,Akmola region,obesity,0.18,rural,men
+2017,4,Aktobe region,obesity,0.14,rural,men
+2017,5,Almaty region,obesity,0.09,rural,men
+2017,6,Atyrau region,obesity,0.19,rural,men
+2017,7,West Kazakkhstan region,obesity,0.15,rural,men
+2017,8,Jambyl region,obesity,0.14,rural,men
+2017,9,Karaganda region,obesity,0.15,rural,men
+2017,10,Kostanay region,obesity,0.1,rural,men
+2017,11,Kyzylorda region,obesity,0.55,rural,men
+2017,12,Mangystau region,obesity,0.09,rural,men
+2017,13,South Kazakhstan region,obesity,0.19,rural,men
+2017,14,Pavlodar region,obesity,0.12,rural,men
+2017,15,North Kazakhstan region,obesity,0.31,rural,men
+2017,16,East Kazakhstan region,obesity,0.17,rural,men
+2018,3,Akmola region,obesity,0.17,total,overall
+2018,4,Aktobe region,obesity,0.17,total,overall
+2018,5,Almaty region,obesity,0.21,total,overall
+2018,6,Atyrau region,obesity,0.28,total,overall
+2018,7,West Kazakkhstan region,obesity,0.18,total,overall
+2018,8,Jambyl region,obesity,0.28,total,overall
+2018,9,Karaganda region,obesity,0.23,total,overall
+2018,10,Kostanay region,obesity,0.12,total,overall
+2018,11,Kyzylorda region,obesity,0.09,total,overall
+2018,12,Mangystau region,obesity,0.09,total,overall
+2018,13,South Kazakhstan region,obesity,0.26,total,overall
+2018,14,Pavlodar region,obesity,0.24,total,overall
+2018,15,North Kazakhstan region,obesity,0.27,total,overall
+2018,16,East Kazakhstan region,obesity,0.22,total,overall
+2018,1,Nur-Sultan,obesity,0.64,total,overall
+2018,2,Almaty,obesity,0.12,total,overall
+2018,3,Akmola region,obesity,0.18,total,women
+2018,4,Aktobe region,obesity,0.24,total,women
+2018,5,Almaty region,obesity,0.27,total,women
+2018,6,Atyrau region,obesity,0.36,total,women
+2018,7,West Kazakkhstan region,obesity,0.23,total,women
+2018,8,Jambyl region,obesity,0.41,total,women
+2018,9,Karaganda region,obesity,0.28,total,women
+2018,10,Kostanay region,obesity,0.09,total,women
+2018,11,Kyzylorda region,obesity,0.14,total,women
+2018,12,Mangystau region,obesity,0.12,total,women
+2018,13,South Kazakhstan region,obesity,0.37,total,women
+2018,14,Pavlodar region,obesity,0.25,total,women
+2018,15,North Kazakhstan region,obesity,0.38,total,women
+2018,16,East Kazakhstan region,obesity,0.30,total,women
+2018,1,Nur-Sultan,obesity,0.86,total,women
+2018,2,Almaty,obesity,0.16,total,women
+2018,3,Akmola region,obesity,0.16,total,men
+2018,4,Aktobe region,obesity,0.10,total,men
+2018,5,Almaty region,obesity,0.14,total,men
+2018,6,Atyrau region,obesity,0.18,total,men
+2018,7,West Kazakkhstan region,obesity,0.12,total,men
+2018,8,Jambyl region,obesity,0.14,total,men
+2018,9,Karaganda region,obesity,0.17,total,men
+2018,10,Kostanay region,obesity,0.16,total,men
+2018,11,Kyzylorda region,obesity,0.04,total,men
+2018,12,Mangystau region,obesity,0.07,total,men
+2018,13,South Kazakhstan region,obesity,0.13,total,men
+2018,14,Pavlodar region,obesity,0.23,total,men
+2018,15,North Kazakhstan region,obesity,0.14,total,men
+2018,16,East Kazakhstan region,obesity,0.13,total,men
+2018,1,Nur-Sultan,obesity,0.39,total,men
+2018,2,Almaty,obesity,0.07,total,men
+2018,3,Akmola region,obesity,0.19,urban,overall
+2018,4,Aktobe region,obesity,0.19,urban,overall
+2018,5,Almaty region,obesity,0.28,urban,overall
+2018,6,Atyrau region,obesity,0.27,urban,overall
+2018,7,West Kazakkhstan region,obesity,0.14,urban,overall
+2018,8,Jambyl region,obesity,0.39,urban,overall
+2018,9,Karaganda region,obesity,0.23,urban,overall
+2018,10,Kostanay region,obesity,0.17,urban,overall
+2018,11,Kyzylorda region,obesity,0.08,urban,overall
+2018,12,Mangystau region,obesity,0.14,urban,overall
+2018,13,South Kazakhstan region,obesity,0.26,urban,overall
+2018,14,Pavlodar region,obesity,0.27,urban,overall
+2018,15,North Kazakhstan region,obesity,0.22,urban,overall
+2018,16,East Kazakhstan region,obesity,0.21,urban,overall
+2018,1,Nur-Sultan,obesity,0.64,urban,overall
+2018,2,Almaty,obesity,0.12,urban,overall
+2018,3,Akmola region,obesity,0.14,urban,women
+2018,4,Aktobe region,obesity,0.27,urban,women
+2018,5,Almaty region,obesity,0.36,urban,women
+2018,6,Atyrau region,obesity,0.38,urban,women
+2018,7,West Kazakkhstan region,obesity,0.18,urban,women
+2018,8,Jambyl region,obesity,0.54,urban,women
+2018,9,Karaganda region,obesity,0.26,urban,women
+2018,10,Kostanay region,obesity,0.10,urban,women
+2018,11,Kyzylorda region,obesity,0.14,urban,women
+2018,12,Mangystau region,obesity,0.18,urban,women
+2018,13,South Kazakhstan region,obesity,0.37,urban,women
+2018,14,Pavlodar region,obesity,0.26,urban,women
+2018,15,North Kazakhstan region,obesity,0.28,urban,women
+2018,16,East Kazakhstan region,obesity,0.27,urban,women
+2018,1,Nur-Sultan,obesity,0.86,urban,women
+2018,2,Almaty,obesity,0.16,urban,women
+2018,3,Akmola region,obesity,0.24,urban,men
+2018,4,Aktobe region,obesity,0.12,urban,men
+2018,5,Almaty region,obesity,0.20,urban,men
+2018,6,Atyrau region,obesity,0.17,urban,men
+2018,7,West Kazakkhstan region,obesity,0.10,urban,men
+2018,8,Jambyl region,obesity,0.21,urban,men
+2018,9,Karaganda region,obesity,0.18,urban,men
+2018,10,Kostanay region,obesity,0.27,urban,men
+2018,11,Kyzylorda region,obesity,0.03,urban,men
+2018,12,Mangystau region,obesity,0.10,urban,men
+2018,13,South Kazakhstan region,obesity,0.13,urban,men
+2018,14,Pavlodar region,obesity,0.28,urban,men
+2018,15,North Kazakhstan region,obesity,0.13,urban,men
+2018,16,East Kazakhstan region,obesity,0.12,urban,men
+2018,1,Nur-Sultan,obesity,0.39,urban,men
+2018,2,Almaty,obesity,0.07,urban,men
+2018,3,Akmola region,obesity,0.16,rural,overall
+2018,4,Aktobe region,obesity,0.13,rural,overall
+2018,5,Almaty region,obesity,0.19,rural,overall
+2018,6,Atyrau region,obesity,0.28,rural,overall
+2018,7,West Kazakkhstan region,obesity,0.21,rural,overall
+2018,8,Jambyl region,obesity,0.21,rural,overall
+2018,9,Karaganda region,obesity,0.26,rural,overall
+2018,10,Kostanay region,obesity,0.06,rural,overall
+2018,11,Kyzylorda region,obesity,0.10,rural,overall
+2018,12,Mangystau region,obesity,0.06,rural,overall
+2018,13,South Kazakhstan region,obesity,0.24,rural,overall
+2018,14,Pavlodar region,obesity,0.17,rural,overall
+2018,15,North Kazakhstan region,obesity,0.31,rural,overall
+2018,16,East Kazakhstan region,obesity,0.24,rural,overall
+2018,3,Akmola region,obesity,0.23,rural,women
+2018,4,Aktobe region,obesity,0.17,rural,women
+2018,5,Almaty region,obesity,0.25,rural,women
+2018,6,Atyrau region,obesity,0.35,rural,women
+2018,7,West Kazakkhstan region,obesity,0.29,rural,women
+2018,8,Jambyl region,obesity,0.31,rural,women
+2018,9,Karaganda region,obesity,0.38,rural,women
+2018,10,Kostanay region,obesity,0.07,rural,women
+2018,11,Kyzylorda region,obesity,0.15,rural,women
+2018,12,Mangystau region,obesity,0.07,rural,women
+2018,13,South Kazakhstan region,obesity,0.27,rural,women
+2018,14,Pavlodar region,obesity,0.20,rural,women
+2018,15,North Kazakhstan region,obesity,0.47,rural,women
+2018,16,East Kazakhstan region,obesity,0.34,rural,women
+2018,3,Akmola region,obesity,0.09,rural,men
+2018,4,Aktobe region,obesity,0.06,rural,men
+2018,5,Almaty region,obesity,0.12,rural,men
+2018,6,Atyrau region,obesity,0.19,rural,men
+2018,7,West Kazakkhstan region,obesity,0.14,rural,men
+2018,8,Jambyl region,obesity,0.10,rural,men
+2018,9,Karaganda region,obesity,0.14,rural,men
+2018,10,Kostanay region,obesity,0.05,rural,men
+2018,11,Kyzylorda region,obesity,0.05,rural,men
+2018,12,Mangystau region,obesity,0.04,rural,men
+2018,13,South Kazakhstan region,obesity,0.21,rural,men
+2018,14,Pavlodar region,obesity,0.14,rural,men
+2018,15,North Kazakhstan region,obesity,0.15,rural,men
+2018,16,East Kazakhstan region,obesity,0.14,rural,men
+2019,3,Akmola region,obesity,0.22,total,overall
+2019,4,Aktobe region,obesity,0.16,total,overall
+2019,5,Almaty region,obesity,0.20,total,overall
+2019,6,Atyrau region,obesity,0.27,total,overall
+2019,7,West Kazakkhstan region,obesity,0.17,total,overall
+2019,8,Jambyl region,obesity,0.25,total,overall
+2019,9,Karaganda region,obesity,0.24,total,overall
+2019,10,Kostanay region,obesity,0.07,total,overall
+2019,11,Kyzylorda region,obesity,0.07,total,overall
+2019,12,Mangystau region,obesity,0.13,total,overall
+2019,13,South Kazakhstan region,obesity,0.25,total,overall
+2019,14,Pavlodar region,obesity,0.17,total,overall
+2019,15,North Kazakhstan region,obesity,0.19,total,overall
+2019,16,East Kazakhstan region,obesity,0.22,total,overall
+2019,1,Nur-Sultan,obesity,0.48,total,overall
+2019,2,Almaty,obesity,0.11,total,overall
+2019,3,Akmola region,obesity,0.25,total,women
+2019,4,Aktobe region,obesity,0.21,total,women
+2019,5,Almaty region,obesity,0.24,total,women
+2019,6,Atyrau region,obesity,0.35,total,women
+2019,7,West Kazakkhstan region,obesity,0.23,total,women
+2019,8,Jambyl region,obesity,0.38,total,women
+2019,9,Karaganda region,obesity,0.31,total,women
+2019,10,Kostanay region,obesity,0.08,total,women
+2019,11,Kyzylorda region,obesity,0.10,total,women
+2019,12,Mangystau region,obesity,0.15,total,women
+2019,13,South Kazakhstan region,obesity,0.33,total,women
+2019,14,Pavlodar region,obesity,0.21,total,women
+2019,15,North Kazakhstan region,obesity,0.26,total,women
+2019,16,East Kazakhstan region,obesity,0.29,total,women
+2019,1,Nur-Sultan,obesity,0.41,total,women
+2019,2,Almaty,obesity,0.13,total,women
+2019,3,Akmola region,obesity,0.18,total,men
+2019,4,Aktobe region,obesity,0.10,total,men
+2019,5,Almaty region,obesity,0.15,total,men
+2019,6,Atyrau region,obesity,0.19,total,men
+2019,7,West Kazakkhstan region,obesity,0.11,total,men
+2019,8,Jambyl region,obesity,0.11,total,men
+2019,9,Karaganda region,obesity,0.16,total,men
+2019,10,Kostanay region,obesity,0.05,total,men
+2019,11,Kyzylorda region,obesity,0.05,total,men
+2019,12,Mangystau region,obesity,0.11,total,men
+2019,13,South Kazakhstan region,obesity,0.17,total,men
+2019,14,Pavlodar region,obesity,0.12,total,men
+2019,15,North Kazakhstan region,obesity,0.11,total,men
+2019,16,East Kazakhstan region,obesity,0.14,total,men
+2019,1,Nur-Sultan,obesity,0.57,total,men
+2019,2,Almaty,obesity,0.08,total,men
+2019,3,Akmola region,obesity,0.29,urban,overall
+2019,4,Aktobe region,obesity,0.18,urban,overall
+2019,5,Almaty region,obesity,0.29,urban,overall
+2019,6,Atyrau region,obesity,0.26,urban,overall
+2019,7,West Kazakkhstan region,obesity,0.08,urban,overall
+2019,8,Jambyl region,obesity,0.38,urban,overall
+2019,9,Karaganda region,obesity,0.24,urban,overall
+2019,10,Kostanay region,obesity,0.07,urban,overall
+2019,11,Kyzylorda region,obesity,0.06,urban,overall
+2019,12,Mangystau region,obesity,0.19,urban,overall
+2019,13,South Kazakhstan region,obesity,0.25,urban,overall
+2019,14,Pavlodar region,obesity,0.17,urban,overall
+2019,15,North Kazakhstan region,obesity,0.16,urban,overall
+2019,16,East Kazakhstan region,obesity,0.24,urban,overall
+2019,1,Nur-Sultan,obesity,0.48,urban,overall
+2019,2,Almaty,obesity,0.11,urban,overall
+2019,3,Akmola region,obesity,0.29,urban,women
+2019,4,Aktobe region,obesity,0.23,urban,women
+2019,5,Almaty region,obesity,0.36,urban,women
+2019,6,Atyrau region,obesity,0.28,urban,women
+2019,7,West Kazakkhstan region,obesity,0.11,urban,women
+2019,8,Jambyl region,obesity,0.56,urban,women
+2019,9,Karaganda region,obesity,0.30,urban,women
+2019,10,Kostanay region,obesity,0.08,urban,women
+2019,11,Kyzylorda region,obesity,0.09,urban,women
+2019,12,Mangystau region,obesity,0.23,urban,women
+2019,13,South Kazakhstan region,obesity,0.33,urban,women
+2019,14,Pavlodar region,obesity,0.20,urban,women
+2019,15,North Kazakhstan region,obesity,0.21,urban,women
+2019,16,East Kazakhstan region,obesity,0.29,urban,women
+2019,1,Nur-Sultan,obesity,0.41,urban,women
+2019,2,Almaty,obesity,0.13,urban,women
+2019,3,Akmola region,obesity,0.30,urban,men
+2019,4,Aktobe region,obesity,0.13,urban,men
+2019,5,Almaty region,obesity,0.21,urban,men
+2019,6,Atyrau region,obesity,0.24,urban,men
+2019,7,West Kazakkhstan region,obesity,0.05,urban,men
+2019,8,Jambyl region,obesity,0.16,urban,men
+2019,9,Karaganda region,obesity,0.16,urban,men
+2019,10,Kostanay region,obesity,0.05,urban,men
+2019,11,Kyzylorda region,obesity,0.03,urban,men
+2019,12,Mangystau region,obesity,0.15,urban,men
+2019,13,South Kazakhstan region,obesity,0.17,urban,men
+2019,14,Pavlodar region,obesity,0.15,urban,men
+2019,15,North Kazakhstan region,obesity,0.11,urban,men
+2019,16,East Kazakhstan region,obesity,0.17,urban,men
+2019,1,Nur-Sultan,obesity,0.57,urban,men
+2019,2,Almaty,obesity,0.08,urban,men
+2019,3,Akmola region,obesity,0.15,rural,overall
+2019,4,Aktobe region,obesity,0.11,rural,overall
+2019,5,Almaty region,obesity,0.17,rural,overall
+2019,6,Atyrau region,obesity,0.28,rural,overall
+2019,7,West Kazakkhstan region,obesity,0.27,rural,overall
+2019,8,Jambyl region,obesity,0.16,rural,overall
+2019,9,Karaganda region,obesity,0.27,rural,overall
+2019,10,Kostanay region,obesity,0.06,rural,overall
+2019,11,Kyzylorda region,obesity,0.08,rural,overall
+2019,12,Mangystau region,obesity,0.09,rural,overall
+2019,13,South Kazakhstan region,obesity,0.22,rural,overall
+2019,14,Pavlodar region,obesity,0.16,rural,overall
+2019,15,North Kazakhstan region,obesity,0.21,rural,overall
+2019,16,East Kazakhstan region,obesity,0.19,rural,overall
+2019,3,Akmola region,obesity,0.22,rural,women
+2019,4,Aktobe region,obesity,0.17,rural,women
+2019,5,Almaty region,obesity,0.20,rural,women
+2019,6,Atyrau region,obesity,0.43,rural,women
+2019,7,West Kazakkhstan region,obesity,0.37,rural,women
+2019,8,Jambyl region,obesity,0.25,rural,women
+2019,9,Karaganda region,obesity,0.39,rural,women
+2019,10,Kostanay region,obesity,0.08,rural,women
+2019,11,Kyzylorda region,obesity,0.11,rural,women
+2019,12,Mangystau region,obesity,0.09,rural,women
+2019,13,South Kazakhstan region,obesity,0.29,rural,women
+2019,14,Pavlodar region,obesity,0.25,rural,women
+2019,15,North Kazakhstan region,obesity,0.30,rural,women
+2019,16,East Kazakhstan region,obesity,0.28,rural,women
+2019,3,Akmola region,obesity,0.08,rural,men
+2019,4,Aktobe region,obesity,0.05,rural,men
+2019,5,Almaty region,obesity,0.13,rural,men
+2019,6,Atyrau region,obesity,0.12,rural,men
+2019,7,West Kazakkhstan region,obesity,0.17,rural,men
+2019,8,Jambyl region,obesity,0.08,rural,men
+2019,9,Karaganda region,obesity,0.15,rural,men
+2019,10,Kostanay region,obesity,0.04,rural,men
+2019,11,Kyzylorda region,obesity,0.06,rural,men
+2019,12,Mangystau region,obesity,0.08,rural,men
+2019,13,South Kazakhstan region,obesity,0.23,rural,men
+2019,14,Pavlodar region,obesity,0.07,rural,men
+2019,15,North Kazakhstan region,obesity,0.12,rural,men
+2019,16,East Kazakhstan region,obesity,0.09,rural,men
+2020,3,Akmola region,obesity,0.14,total,overall
+2020,4,Aktobe region,obesity,0.14,total,overall
+2020,5,Almaty region,obesity,0.22,total,overall
+2020,6,Atyrau region,obesity,0.25,total,overall
+2020,7,West Kazakkhstan region,obesity,0.19,total,overall
+2020,8,Jambyl region,obesity,0.23,total,overall
+2020,9,Karaganda region,obesity,0.22,total,overall
+2020,10,Kostanay region,obesity,0.13,total,overall
+2020,11,Kyzylorda region,obesity,0.07,total,overall
+2020,12,Mangystau region,obesity,0.15,total,overall
+2020,13,South Kazakhstan region,obesity,0.29,total,overall
+2020,14,Pavlodar region,obesity,0.17,total,overall
+2020,15,North Kazakhstan region,obesity,0.19,total,overall
+2020,16,East Kazakhstan region,obesity,0.21,total,overall
+2020,1,Nur-Sultan,obesity,0.20,total,overall
+2020,2,Almaty,obesity,0.08,total,overall
+2020,3,Akmola region,obesity,0.20,total,women
+2020,4,Aktobe region,obesity,0.19,total,women
+2020,5,Almaty region,obesity,0.26,total,women
+2020,6,Atyrau region,obesity,0.33,total,women
+2020,7,West Kazakkhstan region,obesity,0.23,total,women
+2020,8,Jambyl region,obesity,0.32,total,women
+2020,9,Karaganda region,obesity,0.31,total,women
+2020,10,Kostanay region,obesity,0.18,total,women
+2020,11,Kyzylorda region,obesity,0.1,total,women
+2020,12,Mangystau region,obesity,0.19,total,women
+2020,13,South Kazakhstan region,obesity,0.23,total,women
+2020,14,Pavlodar region,obesity,0.24,total,women
+2020,15,North Kazakhstan region,obesity,0.24,total,women
+2020,16,East Kazakhstan region,obesity,0.28,total,women
+2020,1,Nur-Sultan,obesity,0.28,total,women
+2020,2,Almaty,obesity,0.12,total,women
+2020,3,Akmola region,obesity,0.08,total,men
+2020,4,Aktobe region,obesity,0.09,total,men
+2020,5,Almaty region,obesity,0.16,total,men
+2020,6,Atyrau region,obesity,0.17,total,men
+2020,7,West Kazakkhstan region,obesity,0.15,total,men
+2020,8,Jambyl region,obesity,0.12,total,men
+2020,9,Karaganda region,obesity,0.13,total,men
+2020,10,Kostanay region,obesity,0.09,total,men
+2020,11,Kyzylorda region,obesity,0.05,total,men
+2020,12,Mangystau region,obesity,0.1,total,men
+2020,13,South Kazakhstan region,obesity,0.14,total,men
+2020,14,Pavlodar region,obesity,0.1,total,men
+2020,15,North Kazakhstan region,obesity,0.13,total,men
+2020,16,East Kazakhstan region,obesity,0.14,total,men
+2020,1,Nur-Sultan,obesity,0.13,total,men
+2020,2,Almaty,obesity,0.03,total,men
+2020,3,Akmola region,obesity,0.07,urban,overall
+2020,4,Aktobe region,obesity,0.17,urban,overall
+2020,5,Almaty region,obesity,0.34,urban,overall
+2020,6,Atyrau region,obesity,0.22,urban,overall
+2020,7,West Kazakkhstan region,obesity,0.09,urban,overall
+2020,8,Jambyl region,obesity,0.34,urban,overall
+2020,9,Karaganda region,obesity,0.23,urban,overall
+2020,10,Kostanay region,obesity,0.16,urban,overall
+2020,11,Kyzylorda region,obesity,0.04,urban,overall
+2020,12,Mangystau region,obesity,0.21,urban,overall
+2020,13,South Kazakhstan region,obesity,0.30,urban,overall
+2020,14,Pavlodar region,obesity,0.17,urban,overall
+2020,15,North Kazakhstan region,obesity,0.17,urban,overall
+2020,16,East Kazakhstan region,obesity,0.23,urban,overall
+2020,1,Nur-Sultan,obesity,0.2,urban,overall
+2020,2,Almaty,obesity,0.03,urban,overall
+2020,3,Akmola region,obesity,0.09,urban,women
+2020,4,Aktobe region,obesity,0.22,urban,women
+2020,5,Almaty region,obesity,0.35,urban,women
+2020,6,Atyrau region,obesity,0.26,urban,women
+2020,7,West Kazakkhstan region,obesity,0.11,urban,women
+2020,8,Jambyl region,obesity,0.47,urban,women
+2020,9,Karaganda region,obesity,0.31,urban,women
+2020,10,Kostanay region,obesity,0.22,urban,women
+2020,11,Kyzylorda region,obesity,0.05,urban,women
+2020,12,Mangystau region,obesity,0.27,urban,women
+2020,13,South Kazakhstan region,obesity,0.36,urban,women
+2020,14,Pavlodar region,obesity,0.23,urban,women
+2020,15,North Kazakhstan region,obesity,0.2,urban,women
+2020,16,East Kazakhstan region,obesity,0.29,urban,women
+2020,1,Nur-Sultan,obesity,0.27,urban,women
+2020,2,Almaty,obesity,0.02,urban,women
+2020,3,Akmola region,obesity,0.04,urban,men
+2020,4,Aktobe region,obesity,0.10,urban,men
+2020,5,Almaty region,obesity,0.34,urban,men
+2020,6,Atyrau region,obesity,0.16,urban,men
+2020,7,West Kazakkhstan region,obesity,0.07,urban,men
+2020,8,Jambyl region,obesity,0.19,urban,men
+2020,9,Karaganda region,obesity,0.13,urban,men
+2020,10,Kostanay region,obesity,0.09,urban,men
+2020,11,Kyzylorda region,obesity,0.03,urban,men
+2020,12,Mangystau region,obesity,0.15,urban,men
+2020,13,South Kazakhstan region,obesity,0.22,urban,men
+2020,14,Pavlodar region,obesity,0.10,urban,men
+2020,15,North Kazakhstan region,obesity,0.13,urban,men
+2020,16,East Kazakhstan region,obesity,0.15,urban,men
+2020,1,Nur-Sultan,obesity,0.12,urban,men
+2020,2,Almaty,obesity,0.04,urban,men
+2020,3,Akmola region,obesity,0.21,rural,overall
+2020,4,Aktobe region,obesity,0.08,rural,overall
+2020,5,Almaty region,obesity,0.18,rural,overall
+2020,6,Atyrau region,obesity,0.30,rural,overall
+2020,7,West Kazakkhstan region,obesity,0.30,rural,overall
+2020,8,Jambyl region,obesity,0.15,rural,overall
+2020,9,Karaganda region,obesity,0.19,rural,overall
+2020,10,Kostanay region,obesity,0.09,rural,overall
+2020,11,Kyzylorda region,obesity,0.09,rural,overall
+2020,12,Mangystau region,obesity,0.10,rural,overall
+2020,13,South Kazakhstan region,obesity,0.21,rural,overall
+2020,14,Pavlodar region,obesity,0.17,rural,overall
+2020,15,North Kazakhstan region,obesity,0.20,rural,overall
+2020,16,East Kazakhstan region,obesity,0.18,rural,overall
+2020,3,Akmola region,obesity,0.30,rural,women
+2020,4,Aktobe region,obesity,0.10,rural,women
+2020,5,Almaty region,obesity,0.24,rural,women
+2020,6,Atyrau region,obesity,0.42,rural,women
+2020,7,West Kazakkhstan region,obesity,0.38,rural,women
+2020,8,Jambyl region,obesity,0.23,rural,women
+2020,9,Karaganda region,obesity,0.29,rural,women
+2020,10,Kostanay region,obesity,0.11,rural,women
+2020,11,Kyzylorda region,obesity,0.13,rural,women
+2020,12,Mangystau region,obesity,0.13,rural,women
+2020,13,South Kazakhstan region,obesity,0.3,rural,women
+2020,14,Pavlodar region,obesity,0.26,rural,women
+2020,15,North Kazakhstan region,obesity,0.28,rural,women
+2020,16,East Kazakhstan region,obesity,0.26,rural,women
+2020,3,Akmola region,obesity,0.12,rural,men
+2020,4,Aktobe region,obesity,0.06,rural,men
+2020,5,Almaty region,obesity,0.13,rural,men
+2020,6,Atyrau region,obesity,0.17,rural,men
+2020,7,West Kazakkhstan region,obesity,0.21,rural,men
+2020,8,Jambyl region,obesity,0.08,rural,men
+2020,9,Karaganda region,obesity,0.11,rural,men
+2020,10,Kostanay region,obesity,0.07,rural,men
+2020,11,Kyzylorda region,obesity,0.06,rural,men
+2020,12,Mangystau region,obesity,0.07,rural,men
+2020,13,South Kazakhstan region,obesity,0.26,rural,men
+2020,14,Pavlodar region,obesity,0.08,rural,men
+2020,15,North Kazakhstan region,obesity,0.13,rural,men
+2020,16,East Kazakhstan region,obesity,0.11,rural,men

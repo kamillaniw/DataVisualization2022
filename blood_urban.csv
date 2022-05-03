@@ -1,0 +1,225 @@
+year,region_num,region_name,class,data_value,data_value_type,gender
+2007,3,Akmola region,Blood circulation system disease,0.7349,urban,overall
+2007,4,Aktobe region,Blood circulation system disease,0.4759,urban,overall
+2007,5,Almaty region,Blood circulation system disease,0.7013,urban,overall
+2007,6,Atyrau region,Blood circulation system disease,0.3209,urban,overall
+2007,7,West Kazakkhstan region,Blood circulation system disease,0.5867,urban,overall
+2007,8,Jambyl region,Blood circulation system disease,0.4728,urban,overall
+2007,9,Karaganda region,Blood circulation system disease,0.7829,urban,overall
+2007,10,Kostanay region,Blood circulation system disease,0.7881,urban,overall
+2007,11,Kyzylorda region,Blood circulation system disease,0.4299,urban,overall
+2007,12,Mangystau region,Blood circulation system disease,0.2417,urban,overall
+2007,13,South Kazakhstan region,Blood circulation system disease,0.4022,urban,overall
+2007,14,Pavlodar region,Blood circulation system disease,0.6021,urban,overall
+2007,15,North Kazakhstan region,Blood circulation system disease,0.7164,urban,overall
+2007,16,East Kazakhstan region,Blood circulation system disease,0.8092,urban,overall
+2007,1,Nur-Sultan,Blood circulation system disease,0.254,urban,overall
+2007,2,Almaty,Blood circulation system disease,0.5222,urban,overall
+2008,3,Akmola region,Blood circulation system disease,0.6354,urban,overall
+2008,4,Aktobe region,Blood circulation system disease,0.4387,urban,overall
+2008,5,Almaty region,Blood circulation system disease,0.6412,urban,overall
+2008,6,Atyrau region,Blood circulation system disease,0.2496,urban,overall
+2008,7,West Kazakkhstan region,Blood circulation system disease,0.5856,urban,overall
+2008,8,Jambyl region,Blood circulation system disease,0.4116,urban,overall
+2008,9,Karaganda region,Blood circulation system disease,0.7428,urban,overall
+2008,10,Kostanay region,Blood circulation system disease,0.7166,urban,overall
+2008,11,Kyzylorda region,Blood circulation system disease,0.3691,urban,overall
+2008,12,Mangystau region,Blood circulation system disease,0.2705,urban,overall
+2008,13,South Kazakhstan region,Blood circulation system disease,0.3923,urban,overall
+2008,14,Pavlodar region,Blood circulation system disease,0.5864,urban,overall
+2008,15,North Kazakhstan region,Blood circulation system disease,0.5823,urban,overall
+2008,16,East Kazakhstan region,Blood circulation system disease,0.7616,urban,overall
+2008,1,Nur-Sultan,Blood circulation system disease,0.2428,urban,overall
+2008,2,Almaty,Blood circulation system disease,0.5011,urban,overall
+2009,3,Akmola region,Blood circulation system disease,0.5911,urban,overall
+2009,4,Aktobe region,Blood circulation system disease,0.3535,urban,overall
+2009,5,Almaty region,Blood circulation system disease,0.5241,urban,overall
+2009,6,Atyrau region,Blood circulation system disease,0.2505,urban,overall
+2009,7,West Kazakkhstan region,Blood circulation system disease,0.5386,urban,overall
+2009,8,Jambyl region,Blood circulation system disease,0.4073,urban,overall
+2009,9,Karaganda region,Blood circulation system disease,0.652,urban,overall
+2009,10,Kostanay region,Blood circulation system disease,0.5647,urban,overall
+2009,11,Kyzylorda region,Blood circulation system disease,0.2876,urban,overall
+2009,12,Mangystau region,Blood circulation system disease,0.1997,urban,overall
+2009,13,South Kazakhstan region,Blood circulation system disease,0.2965,urban,overall
+2009,14,Pavlodar region,Blood circulation system disease,0.5324,urban,overall
+2009,15,North Kazakhstan region,Blood circulation system disease,0.6238,urban,overall
+2009,16,East Kazakhstan region,Blood circulation system disease,0.6288,urban,overall
+2009,1,Nur-Sultan,Blood circulation system disease,0.2082,urban,overall
+2009,2,Almaty,Blood circulation system disease,0.4419,urban,overall
+2010,3,Akmola region,Blood circulation system disease,0.5616,urban,overall
+2010,4,Aktobe region,Blood circulation system disease,0.3285,urban,overall
+2010,5,Almaty region,Blood circulation system disease,0.5153,urban,overall
+2010,6,Atyrau region,Blood circulation system disease,0.2034,urban,overall
+2010,7,West Kazakkhstan region,Blood circulation system disease,0.5623,urban,overall
+2010,8,Jambyl region,Blood circulation system disease,0.3903,urban,overall
+2010,9,Karaganda region,Blood circulation system disease,0.6795,urban,overall
+2010,10,Kostanay region,Blood circulation system disease,0.5218,urban,overall
+2010,11,Kyzylorda region,Blood circulation system disease,0.2484,urban,overall
+2010,12,Mangystau region,Blood circulation system disease,0.2267,urban,overall
+2010,13,South Kazakhstan region,Blood circulation system disease,0.2502,urban,overall
+2010,14,Pavlodar region,Blood circulation system disease,0.579,urban,overall
+2010,15,North Kazakhstan region,Blood circulation system disease,0.4982,urban,overall
+2010,16,East Kazakhstan region,Blood circulation system disease,0.5636,urban,overall
+2010,1,Nur-Sultan,Blood circulation system disease,0.1909,urban,overall
+2010,2,Almaty,Blood circulation system disease,0.4657,urban,overall
+2011,3,Akmola region,Blood circulation system disease,0.5416,urban,overall
+2011,4,Aktobe region,Blood circulation system disease,0.2728,urban,overall
+2011,5,Almaty region,Blood circulation system disease,0.4335,urban,overall
+2011,6,Atyrau region,Blood circulation system disease,0.2265,urban,overall
+2011,7,West Kazakkhstan region,Blood circulation system disease,0.3767,urban,overall
+2011,8,Jambyl region,Blood circulation system disease,0.3742,urban,overall
+2011,9,Karaganda region,Blood circulation system disease,0.5597,urban,overall
+2011,10,Kostanay region,Blood circulation system disease,0.4383,urban,overall
+2011,11,Kyzylorda region,Blood circulation system disease,0.2027,urban,overall
+2011,12,Mangystau region,Blood circulation system disease,0.1904,urban,overall
+2011,13,South Kazakhstan region,Blood circulation system disease,0.2375,urban,overall
+2011,14,Pavlodar region,Blood circulation system disease,0.4449,urban,overall
+2011,15,North Kazakhstan region,Blood circulation system disease,0.6008,urban,overall
+2011,16,East Kazakhstan region,Blood circulation system disease,0.5202,urban,overall
+2011,1,Nur-Sultan,Blood circulation system disease,0.1811,urban,overall
+2011,2,Almaty,Blood circulation system disease,0.4177,urban,overall
+2012,3,Akmola region,Blood circulation system disease,0.4277,urban,overall
+2012,4,Aktobe region,Blood circulation system disease,0.2497,urban,overall
+2012,5,Almaty region,Blood circulation system disease,0.348,urban,overall
+2012,6,Atyrau region,Blood circulation system disease,0.2182,urban,overall
+2012,7,West Kazakkhstan region,Blood circulation system disease,0.3645,urban,overall
+2012,8,Jambyl region,Blood circulation system disease,0.3506,urban,overall
+2012,9,Karaganda region,Blood circulation system disease,0.5207,urban,overall
+2012,10,Kostanay region,Blood circulation system disease,0.3577,urban,overall
+2012,11,Kyzylorda region,Blood circulation system disease,0.2294,urban,overall
+2012,12,Mangystau region,Blood circulation system disease,0.1675,urban,overall
+2012,13,South Kazakhstan region,Blood circulation system disease,0.2055,urban,overall
+2012,14,Pavlodar region,Blood circulation system disease,0.3646,urban,overall
+2012,15,North Kazakhstan region,Blood circulation system disease,0.5927,urban,overall
+2012,16,East Kazakhstan region,Blood circulation system disease,0.4026,urban,overall
+2012,1,Nur-Sultan,Blood circulation system disease,0.1571,urban,overall
+2012,2,Almaty,Blood circulation system disease,0.354,urban,overall
+2013,3,Akmola region,Blood circulation system disease,0.3275,urban,overall
+2013,4,Aktobe region,Blood circulation system disease,0.2096,urban,overall
+2013,5,Almaty region,Blood circulation system disease,0.3027,urban,overall
+2013,6,Atyrau region,Blood circulation system disease,0.1886,urban,overall
+2013,7,West Kazakkhstan region,Blood circulation system disease,0.2943,urban,overall
+2013,8,Jambyl region,Blood circulation system disease,0.3492,urban,overall
+2013,9,Karaganda region,Blood circulation system disease,0.4105,urban,overall
+2013,10,Kostanay region,Blood circulation system disease,0.2851,urban,overall
+2013,11,Kyzylorda region,Blood circulation system disease,0.1535,urban,overall
+2013,12,Mangystau region,Blood circulation system disease,0.1019,urban,overall
+2013,13,South Kazakhstan region,Blood circulation system disease,0.1762,urban,overall
+2013,14,Pavlodar region,Blood circulation system disease,0.3142,urban,overall
+2013,15,North Kazakhstan region,Blood circulation system disease,0.5285,urban,overall
+2013,16,East Kazakhstan region,Blood circulation system disease,0.3932,urban,overall
+2013,1,Nur-Sultan,Blood circulation system disease,0.1515,urban,overall
+2013,2,Almaty,Blood circulation system disease,0.228,urban,overall
+2014,3,Akmola region,Blood circulation system disease,0.3269,urban,overall
+2014,4,Aktobe region,Blood circulation system disease,0.196,urban,overall
+2014,5,Almaty region,Blood circulation system disease,0.2763,urban,overall
+2014,6,Atyrau region,Blood circulation system disease,0.162,urban,overall
+2014,7,West Kazakkhstan region,Blood circulation system disease,0.2718,urban,overall
+2014,8,Jambyl region,Blood circulation system disease,0.3083,urban,overall
+2014,9,Karaganda region,Blood circulation system disease,0.344,urban,overall
+2014,10,Kostanay region,Blood circulation system disease,0.2339,urban,overall
+2014,11,Kyzylorda region,Blood circulation system disease,0.1216,urban,overall
+2014,12,Mangystau region,Blood circulation system disease,0.0991,urban,overall
+2014,13,South Kazakhstan region,Blood circulation system disease,0.1663,urban,overall
+2014,14,Pavlodar region,Blood circulation system disease,0.2721,urban,overall
+2014,15,North Kazakhstan region,Blood circulation system disease,0.4037,urban,overall
+2014,16,East Kazakhstan region,Blood circulation system disease,0.3143,urban,overall
+2014,1,Nur-Sultan,Blood circulation system disease,0.1458,urban,overall
+2014,2,Almaty,Blood circulation system disease,0.1751,urban,overall
+2015,3,Akmola region,Blood circulation system disease,0.3487,urban,overall
+2015,4,Aktobe region,Blood circulation system disease,0.2126,urban,overall
+2015,5,Almaty region,Blood circulation system disease,0.2141,urban,overall
+2015,6,Atyrau region,Blood circulation system disease,0.1499,urban,overall
+2015,7,West Kazakkhstan region,Blood circulation system disease,0.2563,urban,overall
+2015,8,Jambyl region,Blood circulation system disease,0.2609,urban,overall
+2015,9,Karaganda region,Blood circulation system disease,0.3988,urban,overall
+2015,10,Kostanay region,Blood circulation system disease,0.2048,urban,overall
+2015,11,Kyzylorda region,Blood circulation system disease,0.147,urban,overall
+2015,12,Mangystau region,Blood circulation system disease,0.0852,urban,overall
+2015,13,South Kazakhstan region,Blood circulation system disease,0.1619,urban,overall
+2015,14,Pavlodar region,Blood circulation system disease,0.2632,urban,overall
+2015,15,North Kazakhstan region,Blood circulation system disease,0.369,urban,overall
+2015,16,East Kazakhstan region,Blood circulation system disease,0.2531,urban,overall
+2015,1,Nur-Sultan,Blood circulation system disease,0.1582,urban,overall
+2015,2,Almaty,Blood circulation system disease,0.1411,urban,overall
+2016,3,Akmola region,Blood circulation system disease,0.3209,urban,overall
+2016,4,Aktobe region,Blood circulation system disease,0.1975,urban,overall
+2016,5,Almaty region,Blood circulation system disease,0.1759,urban,overall
+2016,6,Atyrau region,Blood circulation system disease,0.1544,urban,overall
+2016,7,West Kazakkhstan region,Blood circulation system disease,0.2396,urban,overall
+2016,8,Jambyl region,Blood circulation system disease,0.2222,urban,overall
+2016,9,Karaganda region,Blood circulation system disease,0.3512,urban,overall
+2016,10,Kostanay region,Blood circulation system disease,0.1931,urban,overall
+2016,11,Kyzylorda region,Blood circulation system disease,0.1518,urban,overall
+2016,12,Mangystau region,Blood circulation system disease,0.098,urban,overall
+2016,13,South Kazakhstan region,Blood circulation system disease,0.1609,urban,overall
+2016,14,Pavlodar region,Blood circulation system disease,0.246,urban,overall
+2016,15,North Kazakhstan region,Blood circulation system disease,0.2858,urban,overall
+2016,16,East Kazakhstan region,Blood circulation system disease,0.2366,urban,overall
+2016,1,Nur-Sultan,Blood circulation system disease,0.1523,urban,overall
+2016,2,Almaty,Blood circulation system disease,0.1752,urban,overall
+2017,3,Akmola region,Blood circulation system disease,0.308,urban,overall
+2017,4,Aktobe region,Blood circulation system disease,0.1629,urban,overall
+2017,5,Almaty region,Blood circulation system disease,0.1736,urban,overall
+2017,6,Atyrau region,Blood circulation system disease,0.1432,urban,overall
+2017,7,West Kazakkhstan region,Blood circulation system disease,0.241,urban,overall
+2017,8,Jambyl region,Blood circulation system disease,0.2258,urban,overall
+2017,9,Karaganda region,Blood circulation system disease,0.3467,urban,overall
+2017,10,Kostanay region,Blood circulation system disease,0.2099,urban,overall
+2017,11,Kyzylorda region,Blood circulation system disease,0.1397,urban,overall
+2017,12,Mangystau region,Blood circulation system disease,0.0815,urban,overall
+2017,13,South Kazakhstan region,Blood circulation system disease,0.1588,urban,overall
+2017,14,Pavlodar region,Blood circulation system disease,0.2448,urban,overall
+2017,15,North Kazakhstan region,Blood circulation system disease,0.2619,urban,overall
+2017,16,East Kazakhstan region,Blood circulation system disease,0.2542,urban,overall
+2017,1,Nur-Sultan,Blood circulation system disease,0.1268,urban,overall
+2017,2,Almaty,Blood circulation system disease,0.1929,urban,overall
+2018,3,Akmola region,Blood circulation system disease,0.2411,urban,overall
+2018,4,Aktobe region,Blood circulation system disease,0.1554,urban,overall
+2018,5,Almaty region,Blood circulation system disease,0.1753,urban,overall
+2018,6,Atyrau region,Blood circulation system disease,0.1168,urban,overall
+2018,7,West Kazakkhstan region,Blood circulation system disease,0.2376,urban,overall
+2018,8,Jambyl region,Blood circulation system disease,0.2099,urban,overall
+2018,9,Karaganda region,Blood circulation system disease,0.3514,urban,overall
+2018,10,Kostanay region,Blood circulation system disease,0.1908,urban,overall
+2018,11,Kyzylorda region,Blood circulation system disease,0.1146,urban,overall
+2018,12,Mangystau region,Blood circulation system disease,0.0781,urban,overall
+2018,13,South Kazakhstan region,Blood circulation system disease,0.1971,urban,overall
+2018,14,Pavlodar region,Blood circulation system disease,0.2097,urban,overall
+2018,15,North Kazakhstan region,Blood circulation system disease,0.274,urban,overall
+2018,16,East Kazakhstan region,Blood circulation system disease,0.2964,urban,overall
+2018,1,Nur-Sultan,Blood circulation system disease,0.1248,urban,overall
+2018,2,Almaty,Blood circulation system disease,0.1872,urban,overall
+2019,3,Akmola region,Blood circulation system disease,0.2441,urban,overall
+2019,4,Aktobe region,Blood circulation system disease,0.1466,urban,overall
+2019,5,Almaty region,Blood circulation system disease,0.1833,urban,overall
+2019,6,Atyrau region,Blood circulation system disease,0.1069,urban,overall
+2019,7,West Kazakkhstan region,Blood circulation system disease,0.232,urban,overall
+2019,8,Jambyl region,Blood circulation system disease,0.1955,urban,overall
+2019,9,Karaganda region,Blood circulation system disease,0.365,urban,overall
+2019,10,Kostanay region,Blood circulation system disease,0.1961,urban,overall
+2019,11,Kyzylorda region,Blood circulation system disease,0.1301,urban,overall
+2019,12,Mangystau region,Blood circulation system disease,0.0781,urban,overall
+2019,13,South Kazakhstan region,Blood circulation system disease,0.1879,urban,overall
+2019,14,Pavlodar region,Blood circulation system disease,0.2196,urban,overall
+2019,15,North Kazakhstan region,Blood circulation system disease,0.2319,urban,overall
+2019,16,East Kazakhstan region,Blood circulation system disease,0.2891,urban,overall
+2019,1,Nur-Sultan,Blood circulation system disease,0.1159,urban,overall
+2019,2,Almaty,Blood circulation system disease,0.1651,urban,overall
+2020,3,Akmola region,Blood circulation system disease,0.2678,urban,overall
+2020,4,Aktobe region,Blood circulation system disease,0.1612,urban,overall
+2020,5,Almaty region,Blood circulation system disease,0.2096,urban,overall
+2020,6,Atyrau region,Blood circulation system disease,0.1366,urban,overall
+2020,7,West Kazakkhstan region,Blood circulation system disease,0.2729,urban,overall
+2020,8,Jambyl region,Blood circulation system disease,0.237,urban,overall
+2020,9,Karaganda region,Blood circulation system disease,0.3921,urban,overall
+2020,10,Kostanay region,Blood circulation system disease,0.3096,urban,overall
+2020,11,Kyzylorda region,Blood circulation system disease,0.1469,urban,overall
+2020,12,Mangystau region,Blood circulation system disease,0.0847,urban,overall
+2020,13,South Kazakhstan region,Blood circulation system disease,0.198,urban,overall
+2020,14,Pavlodar region,Blood circulation system disease,0.259,urban,overall
+2020,15,North Kazakhstan region,Blood circulation system disease,0.2356,urban,overall
+2020,16,East Kazakhstan region,Blood circulation system disease,0.3756,urban,overall
+2020,1,Nur-Sultan,Blood circulation system disease,0.1292,urban,overall
+2020,2,Almaty,Blood circulation system disease,0.1915,urban,overall

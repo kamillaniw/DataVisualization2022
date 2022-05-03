@@ -1,0 +1,225 @@
+year,region_num,region_name,class,data_value,data_value_type,gender
+2007,3,Akmola region,Neoplasm,0.1528,total,overall
+2007,4,Aktobe region,Neoplasm,0.1148,total,overall
+2007,5,Almaty region,Neoplasm,0.0984,total,overall
+2007,6,Atyrau region,Neoplasm,0.0892,total,overall
+2007,7,West Kazakkhstan region,Neoplasm,0.1523,total,overall
+2007,8,Jambyl region,Neoplasm,0.0931,total,overall
+2007,9,Karaganda region,Neoplasm,0.141,total,overall
+2007,10,Kostanay region,Neoplasm,0.1483,total,overall
+2007,11,Kyzylorda region,Neoplasm,0.0873,total,overall
+2007,12,Mangystau region,Neoplasm,0.085,total,overall
+2007,13,South Kazakhstan region,Neoplasm,0.0648,total,overall
+2007,14,Pavlodar region,Neoplasm,0.1675,total,overall
+2007,15,North Kazakhstan region,Neoplasm,0.1544,total,overall
+2007,16,East Kazakhstan region,Neoplasm,0.1671,total,overall
+2007,1,Nur-Sultan,Neoplasm,0.0843,total,overall
+2007,2,Almaty,Neoplasm,0.1241,total,overall
+2008,3,Akmola region,Neoplasm,0.136,total,overall
+2008,4,Aktobe region,Neoplasm,0.1094,total,overall
+2008,5,Almaty region,Neoplasm,0.0896,total,overall
+2008,6,Atyrau region,Neoplasm,0.0858,total,overall
+2008,7,West Kazakkhstan region,Neoplasm,0.1572,total,overall
+2008,8,Jambyl region,Neoplasm,0.0933,total,overall
+2008,9,Karaganda region,Neoplasm,0.1345,total,overall
+2008,10,Kostanay region,Neoplasm,0.1503,total,overall
+2008,11,Kyzylorda region,Neoplasm,0.0915,total,overall
+2008,12,Mangystau region,Neoplasm,0.0735,total,overall
+2008,13,South Kazakhstan region,Neoplasm,0.0658,total,overall
+2008,14,Pavlodar region,Neoplasm,0.1687,total,overall
+2008,15,North Kazakhstan region,Neoplasm,0.1744,total,overall
+2008,16,East Kazakhstan region,Neoplasm,0.1648,total,overall
+2008,1,Nur-Sultan,Neoplasm,0.08,total,overall
+2008,2,Almaty,Neoplasm,0.1266,total,overall
+2009,3,Akmola region,Neoplasm,0.1429,total,overall
+2009,4,Aktobe region,Neoplasm,0.1068,total,overall
+2009,5,Almaty region,Neoplasm,0.0883,total,overall
+2009,6,Atyrau region,Neoplasm,0.0901,total,overall
+2009,7,West Kazakkhstan region,Neoplasm,0.1551,total,overall
+2009,8,Jambyl region,Neoplasm,0.0957,total,overall
+2009,9,Karaganda region,Neoplasm,0.1371,total,overall
+2009,10,Kostanay region,Neoplasm,0.1277,total,overall
+2009,11,Kyzylorda region,Neoplasm,0.0874,total,overall
+2009,12,Mangystau region,Neoplasm,0.0678,total,overall
+2009,13,South Kazakhstan region,Neoplasm,0.0602,total,overall
+2009,14,Pavlodar region,Neoplasm,0.1571,total,overall
+2009,15,North Kazakhstan region,Neoplasm,0.1692,total,overall
+2009,16,East Kazakhstan region,Neoplasm,0.1628,total,overall
+2009,1,Nur-Sultan,Neoplasm,0.0829,total,overall
+2009,2,Almaty,Neoplasm,0.1263,total,overall
+2010,3,Akmola region,Neoplasm,0.1479,total,overall
+2010,4,Aktobe region,Neoplasm,0.0979,total,overall
+2010,5,Almaty region,Neoplasm,0.0866,total,overall
+2010,6,Atyrau region,Neoplasm,0.0902,total,overall
+2010,7,West Kazakkhstan region,Neoplasm,0.1467,total,overall
+2010,8,Jambyl region,Neoplasm,0.095,total,overall
+2010,9,Karaganda region,Neoplasm,0.1324,total,overall
+2010,10,Kostanay region,Neoplasm,0.1276,total,overall
+2010,11,Kyzylorda region,Neoplasm,0.089,total,overall
+2010,12,Mangystau region,Neoplasm,0.0676,total,overall
+2010,13,South Kazakhstan region,Neoplasm,0.0589,total,overall
+2010,14,Pavlodar region,Neoplasm,0.1464,total,overall
+2010,15,North Kazakhstan region,Neoplasm,0.1499,total,overall
+2010,16,East Kazakhstan region,Neoplasm,0.1666,total,overall
+2010,1,Nur-Sultan,Neoplasm,0.0836,total,overall
+2010,2,Almaty,Neoplasm,0.1325,total,overall
+2011,3,Akmola region,Neoplasm,0.1445,total,overall
+2011,4,Aktobe region,Neoplasm,0.0964,total,overall
+2011,5,Almaty region,Neoplasm,0.0777,total,overall
+2011,6,Atyrau region,Neoplasm,0.094,total,overall
+2011,7,West Kazakkhstan region,Neoplasm,0.1124,total,overall
+2011,8,Jambyl region,Neoplasm,0.0941,total,overall
+2011,9,Karaganda region,Neoplasm,0.1386,total,overall
+2011,10,Kostanay region,Neoplasm,0.1193,total,overall
+2011,11,Kyzylorda region,Neoplasm,0.0775,total,overall
+2011,12,Mangystau region,Neoplasm,0.0598,total,overall
+2011,13,South Kazakhstan region,Neoplasm,0.0561,total,overall
+2011,14,Pavlodar region,Neoplasm,0.1408,total,overall
+2011,15,North Kazakhstan region,Neoplasm,0.1343,total,overall
+2011,16,East Kazakhstan region,Neoplasm,0.1661,total,overall
+2011,1,Nur-Sultan,Neoplasm,0.0772,total,overall
+2011,2,Almaty,Neoplasm,0.1218,total,overall
+2012,3,Akmola region,Neoplasm,0.1508,total,overall
+2012,4,Aktobe region,Neoplasm,0.1019,total,overall
+2012,5,Almaty region,Neoplasm,0.0784,total,overall
+2012,6,Atyrau region,Neoplasm,0.0882,total,overall
+2012,7,West Kazakkhstan region,Neoplasm,0.1107,total,overall
+2012,8,Jambyl region,Neoplasm,0.1003,total,overall
+2012,9,Karaganda region,Neoplasm,0.1331,total,overall
+2012,10,Kostanay region,Neoplasm,0.1177,total,overall
+2012,11,Kyzylorda region,Neoplasm,0.0867,total,overall
+2012,12,Mangystau region,Neoplasm,0.0715,total,overall
+2012,13,South Kazakhstan region,Neoplasm,0.0552,total,overall
+2012,14,Pavlodar region,Neoplasm,0.1576,total,overall
+2012,15,North Kazakhstan region,Neoplasm,0.1456,total,overall
+2012,16,East Kazakhstan region,Neoplasm,0.1615,total,overall
+2012,1,Nur-Sultan,Neoplasm,0.0864,total,overall
+2012,2,Almaty,Neoplasm,0.1261,total,overall
+2013,3,Akmola region,Neoplasm,0.1547,total,overall
+2013,4,Aktobe region,Neoplasm,0.1026,total,overall
+2013,5,Almaty region,Neoplasm,0.077,total,overall
+2013,6,Atyrau region,Neoplasm,0.0921,total,overall
+2013,7,West Kazakkhstan region,Neoplasm,0.1037,total,overall
+2013,8,Jambyl region,Neoplasm,0.0946,total,overall
+2013,9,Karaganda region,Neoplasm,0.1298,total,overall
+2013,10,Kostanay region,Neoplasm,0.1053,total,overall
+2013,11,Kyzylorda region,Neoplasm,0.0866,total,overall
+2013,12,Mangystau region,Neoplasm,0.0672,total,overall
+2013,13,South Kazakhstan region,Neoplasm,0.0544,total,overall
+2013,14,Pavlodar region,Neoplasm,0.1471,total,overall
+2013,15,North Kazakhstan region,Neoplasm,0.1518,total,overall
+2013,16,East Kazakhstan region,Neoplasm,0.1489,total,overall
+2013,1,Nur-Sultan,Neoplasm,0.0785,total,overall
+2013,2,Almaty,Neoplasm,0.1199,total,overall
+2014,3,Akmola region,Neoplasm,0.1247,total,overall
+2014,4,Aktobe region,Neoplasm,0.0765,total,overall
+2014,5,Almaty region,Neoplasm,0.0699,total,overall
+2014,6,Atyrau region,Neoplasm,0.0891,total,overall
+2014,7,West Kazakkhstan region,Neoplasm,0.1046,total,overall
+2014,8,Jambyl region,Neoplasm,0.089,total,overall
+2014,9,Karaganda region,Neoplasm,0.1114,total,overall
+2014,10,Kostanay region,Neoplasm,0.0984,total,overall
+2014,11,Kyzylorda region,Neoplasm,0.0884,total,overall
+2014,12,Mangystau region,Neoplasm,0.0606,total,overall
+2014,13,South Kazakhstan region,Neoplasm,0.0515,total,overall
+2014,14,Pavlodar region,Neoplasm,0.1457,total,overall
+2014,15,North Kazakhstan region,Neoplasm,0.1422,total,overall
+2014,16,East Kazakhstan region,Neoplasm,0.1483,total,overall
+2014,1,Nur-Sultan,Neoplasm,0.0914,total,overall
+2014,2,Almaty,Neoplasm,0.109,total,overall
+2015,3,Akmola region,Neoplasm,0.1276,total,overall
+2015,4,Aktobe region,Neoplasm,0.0844,total,overall
+2015,5,Almaty region,Neoplasm,0.0725,total,overall
+2015,6,Atyrau region,Neoplasm,0.0949,total,overall
+2015,7,West Kazakkhstan region,Neoplasm,0.0977,total,overall
+2015,8,Jambyl region,Neoplasm,0.0892,total,overall
+2015,9,Karaganda region,Neoplasm,0.0997,total,overall
+2015,10,Kostanay region,Neoplasm,0.0964,total,overall
+2015,11,Kyzylorda region,Neoplasm,0.0831,total,overall
+2015,12,Mangystau region,Neoplasm,0.0626,total,overall
+2015,13,South Kazakhstan region,Neoplasm,0.061,total,overall
+2015,14,Pavlodar region,Neoplasm,0.1459,total,overall
+2015,15,North Kazakhstan region,Neoplasm,0.1453,total,overall
+2015,16,East Kazakhstan region,Neoplasm,0.1389,total,overall
+2015,1,Nur-Sultan,Neoplasm,0.0956,total,overall
+2015,2,Almaty,Neoplasm,0.0965,total,overall
+2016,3,Akmola region,Neoplasm,0.1246,total,overall
+2016,4,Aktobe region,Neoplasm,0.0814,total,overall
+2016,5,Almaty region,Neoplasm,0.065,total,overall
+2016,6,Atyrau region,Neoplasm,0.0879,total,overall
+2016,7,West Kazakkhstan region,Neoplasm,0.1009,total,overall
+2016,8,Jambyl region,Neoplasm,0.0877,total,overall
+2016,9,Karaganda region,Neoplasm,0.1027,total,overall
+2016,10,Kostanay region,Neoplasm,0.0977,total,overall
+2016,11,Kyzylorda region,Neoplasm,0.0715,total,overall
+2016,12,Mangystau region,Neoplasm,0.0573,total,overall
+2016,13,South Kazakhstan region,Neoplasm,0.0521,total,overall
+2016,14,Pavlodar region,Neoplasm,0.1454,total,overall
+2016,15,North Kazakhstan region,Neoplasm,0.131,total,overall
+2016,16,East Kazakhstan region,Neoplasm,0.1318,total,overall
+2016,1,Nur-Sultan,Neoplasm,0.0936,total,overall
+2016,2,Almaty,Neoplasm,0.1035,total,overall
+2017,3,Akmola region,Neoplasm,0.1229,total,overall
+2017,4,Aktobe region,Neoplasm,0.0736,total,overall
+2017,5,Almaty region,Neoplasm,0.0622,total,overall
+2017,6,Atyrau region,Neoplasm,0.0817,total,overall
+2017,7,West Kazakkhstan region,Neoplasm,0.0959,total,overall
+2017,8,Jambyl region,Neoplasm,0.0894,total,overall
+2017,9,Karaganda region,Neoplasm,0.0883,total,overall
+2017,10,Kostanay region,Neoplasm,0.0957,total,overall
+2017,11,Kyzylorda region,Neoplasm,0.0623,total,overall
+2017,12,Mangystau region,Neoplasm,0.0565,total,overall
+2017,13,South Kazakhstan region,Neoplasm,0.0569,total,overall
+2017,14,Pavlodar region,Neoplasm,0.1341,total,overall
+2017,15,North Kazakhstan region,Neoplasm,0.1244,total,overall
+2017,16,East Kazakhstan region,Neoplasm,0.1282,total,overall
+2017,1,Nur-Sultan,Neoplasm,0.0835,total,overall
+2017,2,Almaty,Neoplasm,0.0954,total,overall
+2018,3,Akmola region,Neoplasm,0.108,total,overall
+2018,4,Aktobe region,Neoplasm,0.0702,total,overall
+2018,5,Almaty region,Neoplasm,0.0594,total,overall
+2018,6,Atyrau region,Neoplasm,0.0692,total,overall
+2018,7,West Kazakkhstan region,Neoplasm,0.0956,total,overall
+2018,8,Jambyl region,Neoplasm,0.0763,total,overall
+2018,9,Karaganda region,Neoplasm,0.0937,total,overall
+2018,10,Kostanay region,Neoplasm,0.096,total,overall
+2018,11,Kyzylorda region,Neoplasm,0.0614,total,overall
+2018,12,Mangystau region,Neoplasm,0.0541,total,overall
+2018,13,South Kazakhstan region,Neoplasm,0.0486,total,overall
+2018,14,Pavlodar region,Neoplasm,0.1269,total,overall
+2018,15,North Kazakhstan region,Neoplasm,0.1231,total,overall
+2018,16,East Kazakhstan region,Neoplasm,0.1319,total,overall
+2018,1,Nur-Sultan,Neoplasm,0.0876,total,overall
+2018,2,Almaty,Neoplasm,0.0935,total,overall
+2019,3,Akmola region,Neoplasm,0.116,total,overall
+2019,4,Aktobe region,Neoplasm,0.0707,total,overall
+2019,5,Almaty region,Neoplasm,0.0602,total,overall
+2019,6,Atyrau region,Neoplasm,0.0669,total,overall
+2019,7,West Kazakkhstan region,Neoplasm,0.092,total,overall
+2019,8,Jambyl region,Neoplasm,0.0733,total,overall
+2019,9,Karaganda region,Neoplasm,0.0911,total,overall
+2019,10,Kostanay region,Neoplasm,0.0912,total,overall
+2019,11,Kyzylorda region,Neoplasm,0.0602,total,overall
+2019,12,Mangystau region,Neoplasm,0.0564,total,overall
+2019,13,South Kazakhstan region,Neoplasm,0.0519,total,overall
+2019,14,Pavlodar region,Neoplasm,0.1298,total,overall
+2019,15,North Kazakhstan region,Neoplasm,0.1229,total,overall
+2019,16,East Kazakhstan region,Neoplasm,0.1301,total,overall
+2019,1,Nur-Sultan,Neoplasm,0.0802,total,overall
+2019,2,Almaty,Neoplasm,0.0852,total,overall
+2020,3,Akmola region,Neoplasm,0.1027,total,overall
+2020,4,Aktobe region,Neoplasm,0.06,total,overall
+2020,5,Almaty region,Neoplasm,0.0623,total,overall
+2020,6,Atyrau region,Neoplasm,0.064,total,overall
+2020,7,West Kazakkhstan region,Neoplasm,0.0986,total,overall
+2020,8,Jambyl region,Neoplasm,0.0757,total,overall
+2020,9,Karaganda region,Neoplasm,0.096,total,overall
+2020,10,Kostanay region,Neoplasm,0.0916,total,overall
+2020,11,Kyzylorda region,Neoplasm,0.063,total,overall
+2020,12,Mangystau region,Neoplasm,0.051,total,overall
+2020,13,South Kazakhstan region,Neoplasm,0.0529,total,overall
+2020,14,Pavlodar region,Neoplasm,0.1245,total,overall
+2020,15,North Kazakhstan region,Neoplasm,0.1047,total,overall
+2020,16,East Kazakhstan region,Neoplasm,0.1311,total,overall
+2020,1,Nur-Sultan,Neoplasm,0.0721,total,overall
+2020,2,Almaty,Neoplasm,0.092,total,overall

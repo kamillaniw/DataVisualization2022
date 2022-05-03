@@ -1,0 +1,197 @@
+year,region_num,region_name,class,data_value,data_value_type,gender
+2007,3,Akmola region,Respiratory diseases,0.0771,rural,overall
+2007,4,Aktobe region,Respiratory diseases,0.0338,rural,overall
+2007,5,Almaty region,Respiratory diseases,0.0466,rural,overall
+2007,6,Atyrau region,Respiratory diseases,0.026,rural,overall
+2007,7,West Kazakkhstan region,Respiratory diseases,0.0516,rural,overall
+2007,8,Jambyl region,Respiratory diseases,0.0248,rural,overall
+2007,9,Karaganda region,Respiratory diseases,0.0589,rural,overall
+2007,10,Kostanay region,Respiratory diseases,0.0564,rural,overall
+2007,11,Kyzylorda region,Respiratory diseases,0.0671,rural,overall
+2007,12,Mangystau region,Respiratory diseases,0.1066,rural,overall
+2007,13,South Kazakhstan region,Respiratory diseases,0.061,rural,overall
+2007,14,Pavlodar region,Respiratory diseases,0.0505,rural,overall
+2007,15,North Kazakhstan region,Respiratory diseases,0.1109,rural,overall
+2007,16,East Kazakhstan region,Respiratory diseases,0.0695,rural,overall
+2008,3,Akmola region,Respiratory diseases,0.074,rural,overall
+2008,4,Aktobe region,Respiratory diseases,0.0322,rural,overall
+2008,5,Almaty region,Respiratory diseases,0.0498,rural,overall
+2008,6,Atyrau region,Respiratory diseases,0.0164,rural,overall
+2008,7,West Kazakkhstan region,Respiratory diseases,0.0597,rural,overall
+2008,8,Jambyl region,Respiratory diseases,0.0286,rural,overall
+2008,9,Karaganda region,Respiratory diseases,0.0465,rural,overall
+2008,10,Kostanay region,Respiratory diseases,0.0652,rural,overall
+2008,11,Kyzylorda region,Respiratory diseases,0.0468,rural,overall
+2008,12,Mangystau region,Respiratory diseases,0.0516,rural,overall
+2008,13,South Kazakhstan region,Respiratory diseases,0.0513,rural,overall
+2008,14,Pavlodar region,Respiratory diseases,0.0392,rural,overall
+2008,15,North Kazakhstan region,Respiratory diseases,0.1146,rural,overall
+2008,16,East Kazakhstan region,Respiratory diseases,0.0588,rural,overall
+2009,3,Akmola region,Respiratory diseases,0.0656,rural,overall
+2009,4,Aktobe region,Respiratory diseases,0.0713,rural,overall
+2009,5,Almaty region,Respiratory diseases,0.0605,rural,overall
+2009,6,Atyrau region,Respiratory diseases,0.0541,rural,overall
+2009,7,West Kazakkhstan region,Respiratory diseases,0.0764,rural,overall
+2009,8,Jambyl region,Respiratory diseases,0.0407,rural,overall
+2009,9,Karaganda region,Respiratory diseases,0.0576,rural,overall
+2009,10,Kostanay region,Respiratory diseases,0.1301,rural,overall
+2009,11,Kyzylorda region,Respiratory diseases,0.0492,rural,overall
+2009,12,Mangystau region,Respiratory diseases,0.0282,rural,overall
+2009,13,South Kazakhstan region,Respiratory diseases,0.0454,rural,overall
+2009,14,Pavlodar region,Respiratory diseases,0.0557,rural,overall
+2009,15,North Kazakhstan region,Respiratory diseases,0.1712,rural,overall
+2009,16,East Kazakhstan region,Respiratory diseases,0.0779,rural,overall
+2010,3,Akmola region,Respiratory diseases,0.0579,rural,overall
+2010,4,Aktobe region,Respiratory diseases,0.0375,rural,overall
+2010,5,Almaty region,Respiratory diseases,0.0507,rural,overall
+2010,6,Atyrau region,Respiratory diseases,0.012,rural,overall
+2010,7,West Kazakkhstan region,Respiratory diseases,0.0589,rural,overall
+2010,8,Jambyl region,Respiratory diseases,0.0276,rural,overall
+2010,9,Karaganda region,Respiratory diseases,0.0376,rural,overall
+2010,10,Kostanay region,Respiratory diseases,0.0641,rural,overall
+2010,11,Kyzylorda region,Respiratory diseases,0.0413,rural,overall
+2010,12,Mangystau region,Respiratory diseases,0.0195,rural,overall
+2010,13,South Kazakhstan region,Respiratory diseases,0.0397,rural,overall
+2010,14,Pavlodar region,Respiratory diseases,0.0536,rural,overall
+2010,15,North Kazakhstan region,Respiratory diseases,0.1092,rural,overall
+2010,16,East Kazakhstan region,Respiratory diseases,0.0576,rural,overall
+2011,3,Akmola region,Respiratory diseases,0.0841,rural,overall
+2011,4,Aktobe region,Respiratory diseases,0.1009,rural,overall
+2011,5,Almaty region,Respiratory diseases,0.0811,rural,overall
+2011,6,Atyrau region,Respiratory diseases,0.0611,rural,overall
+2011,7,West Kazakkhstan region,Respiratory diseases,0.1733,rural,overall
+2011,8,Jambyl region,Respiratory diseases,0.0383,rural,overall
+2011,9,Karaganda region,Respiratory diseases,0.09,rural,overall
+2011,10,Kostanay region,Respiratory diseases,0.1847,rural,overall
+2011,11,Kyzylorda region,Respiratory diseases,0.0581,rural,overall
+2011,12,Mangystau region,Respiratory diseases,0.0227,rural,overall
+2011,13,South Kazakhstan region,Respiratory diseases,0.0527,rural,overall
+2011,14,Pavlodar region,Respiratory diseases,0.0921,rural,overall
+2011,15,North Kazakhstan region,Respiratory diseases,0.1937,rural,overall
+2011,16,East Kazakhstan region,Respiratory diseases,0.118,rural,overall
+2012,3,Akmola region,Respiratory diseases,0.0841,rural,overall
+2012,4,Aktobe region,Respiratory diseases,0.1325,rural,overall
+2012,5,Almaty region,Respiratory diseases,0.1022,rural,overall
+2012,6,Atyrau region,Respiratory diseases,0.0604,rural,overall
+2012,7,West Kazakkhstan region,Respiratory diseases,0.1749,rural,overall
+2012,8,Jambyl region,Respiratory diseases,0.0646,rural,overall
+2012,9,Karaganda region,Respiratory diseases,0.0869,rural,overall
+2012,10,Kostanay region,Respiratory diseases,0.1879,rural,overall
+2012,11,Kyzylorda region,Respiratory diseases,0.052,rural,overall
+2012,12,Mangystau region,Respiratory diseases,0.0217,rural,overall
+2012,13,South Kazakhstan region,Respiratory diseases,0.0592,rural,overall
+2012,14,Pavlodar region,Respiratory diseases,0.1109,rural,overall
+2012,15,North Kazakhstan region,Respiratory diseases,0.231,rural,overall
+2012,16,East Kazakhstan region,Respiratory diseases,0.1028,rural,overall
+2013,3,Akmola region,Respiratory diseases,0.0838,rural,overall
+2013,4,Aktobe region,Respiratory diseases,0.1349,rural,overall
+2013,5,Almaty region,Respiratory diseases,0.1203,rural,overall
+2013,6,Atyrau region,Respiratory diseases,0.0661,rural,overall
+2013,7,West Kazakkhstan region,Respiratory diseases,0.1916,rural,overall
+2013,8,Jambyl region,Respiratory diseases,0.065,rural,overall
+2013,9,Karaganda region,Respiratory diseases,0.0784,rural,overall
+2013,10,Kostanay region,Respiratory diseases,0.2147,rural,overall
+2013,11,Kyzylorda region,Respiratory diseases,0.0822,rural,overall
+2013,12,Mangystau region,Respiratory diseases,0.023,rural,overall
+2013,13,South Kazakhstan region,Respiratory diseases,0.0566,rural,overall
+2013,14,Pavlodar region,Respiratory diseases,0.1299,rural,overall
+2013,15,North Kazakhstan region,Respiratory diseases,0.2477,rural,overall
+2013,16,East Kazakhstan region,Respiratory diseases,0.1716,rural,overall
+2014,3,Akmola region,Respiratory diseases,0.0874,rural,overall
+2014,4,Aktobe region,Respiratory diseases,0.1373,rural,overall
+2014,5,Almaty region,Respiratory diseases,0.1242,rural,overall
+2014,6,Atyrau region,Respiratory diseases,0.0905,rural,overall
+2014,7,West Kazakkhstan region,Respiratory diseases,0.156,rural,overall
+2014,8,Jambyl region,Respiratory diseases,0.0747,rural,overall
+2014,9,Karaganda region,Respiratory diseases,0.1113,rural,overall
+2014,10,Kostanay region,Respiratory diseases,0.2318,rural,overall
+2014,11,Kyzylorda region,Respiratory diseases,0.0837,rural,overall
+2014,12,Mangystau region,Respiratory diseases,0.025,rural,overall
+2014,13,South Kazakhstan region,Respiratory diseases,0.0561,rural,overall
+2014,14,Pavlodar region,Respiratory diseases,0.138,rural,overall
+2014,15,North Kazakhstan region,Respiratory diseases,0.2609,rural,overall
+2014,16,East Kazakhstan region,Respiratory diseases,0.172,rural,overall
+2015,3,Akmola region,Respiratory diseases,0.1472,rural,overall
+2015,4,Aktobe region,Respiratory diseases,0.1215,rural,overall
+2015,5,Almaty region,Respiratory diseases,0.1407,rural,overall
+2015,6,Atyrau region,Respiratory diseases,0.0851,rural,overall
+2015,7,West Kazakkhstan region,Respiratory diseases,0.1359,rural,overall
+2015,8,Jambyl region,Respiratory diseases,0.0732,rural,overall
+2015,9,Karaganda region,Respiratory diseases,0.1592,rural,overall
+2015,10,Kostanay region,Respiratory diseases,0.2454,rural,overall
+2015,11,Kyzylorda region,Respiratory diseases,0.0754,rural,overall
+2015,12,Mangystau region,Respiratory diseases,0.0412,rural,overall
+2015,13,South Kazakhstan region,Respiratory diseases,0.0499,rural,overall
+2015,14,Pavlodar region,Respiratory diseases,0.1436,rural,overall
+2015,15,North Kazakhstan region,Respiratory diseases,0.2039,rural,overall
+2015,16,East Kazakhstan region,Respiratory diseases,0.189,rural,overall
+2016,3,Akmola region,Respiratory diseases,0.1027,rural,overall
+2016,4,Aktobe region,Respiratory diseases,0.1316,rural,overall
+2016,5,Almaty region,Respiratory diseases,0.1442,rural,overall
+2016,6,Atyrau region,Respiratory diseases,0.096,rural,overall
+2016,7,West Kazakkhstan region,Respiratory diseases,0.1244,rural,overall
+2016,8,Jambyl region,Respiratory diseases,0.0774,rural,overall
+2016,9,Karaganda region,Respiratory diseases,0.1534,rural,overall
+2016,10,Kostanay region,Respiratory diseases,0.2332,rural,overall
+2016,11,Kyzylorda region,Respiratory diseases,0.0887,rural,overall
+2016,12,Mangystau region,Respiratory diseases,0.0326,rural,overall
+2016,13,South Kazakhstan region,Respiratory diseases,0.0438,rural,overall
+2016,14,Pavlodar region,Respiratory diseases,0.1317,rural,overall
+2016,15,North Kazakhstan region,Respiratory diseases,0.2319,rural,overall
+2016,16,East Kazakhstan region,Respiratory diseases,0.1967,rural,overall
+2017,3,Akmola region,Respiratory diseases,0.0951,rural,overall
+2017,4,Aktobe region,Respiratory diseases,0.136,rural,overall
+2017,5,Almaty region,Respiratory diseases,0.1179,rural,overall
+2017,6,Atyrau region,Respiratory diseases,0.0895,rural,overall
+2017,7,West Kazakkhstan region,Respiratory diseases,0.1138,rural,overall
+2017,8,Jambyl region,Respiratory diseases,0.0787,rural,overall
+2017,9,Karaganda region,Respiratory diseases,0.1598,rural,overall
+2017,10,Kostanay region,Respiratory diseases,0.2044,rural,overall
+2017,11,Kyzylorda region,Respiratory diseases,0.0969,rural,overall
+2017,12,Mangystau region,Respiratory diseases,0.0308,rural,overall
+2017,13,South Kazakhstan region,Respiratory diseases,0.0381,rural,overall
+2017,14,Pavlodar region,Respiratory diseases,0.1285,rural,overall
+2017,15,North Kazakhstan region,Respiratory diseases,0.2242,rural,overall
+2017,16,East Kazakhstan region,Respiratory diseases,0.1708,rural,overall
+2018,3,Akmola region,Respiratory diseases,0.081,rural,overall
+2018,4,Aktobe region,Respiratory diseases,0.1292,rural,overall
+2018,5,Almaty region,Respiratory diseases,0.1138,rural,overall
+2018,6,Atyrau region,Respiratory diseases,0.0922,rural,overall
+2018,7,West Kazakkhstan region,Respiratory diseases,0.1098,rural,overall
+2018,8,Jambyl region,Respiratory diseases,0.0879,rural,overall
+2018,9,Karaganda region,Respiratory diseases,0.1266,rural,overall
+2018,10,Kostanay region,Respiratory diseases,0.183,rural,overall
+2018,11,Kyzylorda region,Respiratory diseases,0.0682,rural,overall
+2018,12,Mangystau region,Respiratory diseases,0.0413,rural,overall
+2018,13,South Kazakhstan region,Respiratory diseases,0.0405,rural,overall
+2018,14,Pavlodar region,Respiratory diseases,0.13,rural,overall
+2018,15,North Kazakhstan region,Respiratory diseases,0.2126,rural,overall
+2018,16,East Kazakhstan region,Respiratory diseases,0.1381,rural,overall
+2019,3,Akmola region,Respiratory diseases,0.0773,rural,overall
+2019,4,Aktobe region,Respiratory diseases,0.1266,rural,overall
+2019,5,Almaty region,Respiratory diseases,0.1226,rural,overall
+2019,6,Atyrau region,Respiratory diseases,0.1067,rural,overall
+2019,7,West Kazakkhstan region,Respiratory diseases,0.1186,rural,overall
+2019,8,Jambyl region,Respiratory diseases,0.0923,rural,overall
+2019,9,Karaganda region,Respiratory diseases,0.1332,rural,overall
+2019,10,Kostanay region,Respiratory diseases,0.179,rural,overall
+2019,11,Kyzylorda region,Respiratory diseases,0.0714,rural,overall
+2019,12,Mangystau region,Respiratory diseases,0.04,rural,overall
+2019,13,South Kazakhstan region,Respiratory diseases,0.0359,rural,overall
+2019,14,Pavlodar region,Respiratory diseases,0.1205,rural,overall
+2019,15,North Kazakhstan region,Respiratory diseases,0.2121,rural,overall
+2019,16,East Kazakhstan region,Respiratory diseases,0.1134,rural,overall
+2020,3,Akmola region,Respiratory diseases,0.0971,rural,overall
+2020,4,Aktobe region,Respiratory diseases,0.1897,rural,overall
+2020,5,Almaty region,Respiratory diseases,0.1357,rural,overall
+2020,6,Atyrau region,Respiratory diseases,0.156,rural,overall
+2020,7,West Kazakkhstan region,Respiratory diseases,0.1455,rural,overall
+2020,8,Jambyl region,Respiratory diseases,0.12,rural,overall
+2020,9,Karaganda region,Respiratory diseases,0.1427,rural,overall
+2020,10,Kostanay region,Respiratory diseases,0.1631,rural,overall
+2020,11,Kyzylorda region,Respiratory diseases,0.1254,rural,overall
+2020,12,Mangystau region,Respiratory diseases,0.0827,rural,overall
+2020,13,South Kazakhstan region,Respiratory diseases,0.0619,rural,overall
+2020,14,Pavlodar region,Respiratory diseases,0.1461,rural,overall
+2020,15,North Kazakhstan region,Respiratory diseases,0.2602,rural,overall
+2020,16,East Kazakhstan region,Respiratory diseases,0.0909,rural,overall
